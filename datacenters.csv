@@ -1,11 +1,37 @@
-3.0.0.0,3.1.255.255,Amazon AWS,http://www.amazon.com/aws/
-3.8.0.0,3.11.255.255,Amazon AWS,http://www.amazon.com/aws/
-3.16.0.0,3.19.255.255,Amazon AWS,http://www.amazon.com/aws/
-3.80.0.0,3.95.255.255,Amazon AWS,http://www.amazon.com/aws/
-3.104.0.0,3.107.255.255,Amazon AWS,http://www.amazon.com/aws/
-3.112.0.0,3.115.255.255,Amazon AWS,http://www.amazon.com/aws/
-3.120.0.0,3.127.255.255,Amazon AWS,http://www.amazon.com/aws/
+2.58.44.0,2.58.47.255,M247,http://m247.ro/
+3.0.0.0,3.2.0.255,Amazon AWS,http://www.amazon.com/aws/
+3.2.2.0,3.2.3.255,Amazon AWS,http://www.amazon.com/aws/
+3.2.32.0,3.2.32.255,Amazon AWS,http://www.amazon.com/aws/
+3.2.33.64,3.2.34.63,Amazon AWS,http://www.amazon.com/aws/
+3.2.34.128,3.2.36.127,Amazon AWS,http://www.amazon.com/aws/
+3.2.37.0,3.2.37.63,Amazon AWS,http://www.amazon.com/aws/
+3.2.37.128,3.2.37.191,Amazon AWS,http://www.amazon.com/aws/
+3.2.38.0,3.2.38.63,Amazon AWS,http://www.amazon.com/aws/
+3.2.38.128,3.2.39.191,Amazon AWS,http://www.amazon.com/aws/
+3.2.40.0,3.2.40.127,Amazon AWS,http://www.amazon.com/aws/
+3.2.41.0,3.2.42.127,Amazon AWS,http://www.amazon.com/aws/
+3.2.42.192,3.2.43.127,Amazon AWS,http://www.amazon.com/aws/
+3.2.47.0,3.2.47.127,Amazon AWS,http://www.amazon.com/aws/
+3.2.47.192,3.2.47.255,Amazon AWS,http://www.amazon.com/aws/
+3.3.2.0,3.3.2.255,Amazon AWS,http://www.amazon.com/aws/
+3.3.5.0,3.3.5.255,Amazon AWS,http://www.amazon.com/aws/
+3.4.0.0,3.4.4.255,Amazon AWS,http://www.amazon.com/aws/
+3.4.6.0,3.4.8.255,Amazon AWS,http://www.amazon.com/aws/
+3.4.16.0,3.4.31.255,Amazon AWS,http://www.amazon.com/aws/
+3.5.0.0,3.5.59.255,Amazon AWS,http://www.amazon.com/aws/
+3.5.64.0,3.5.73.255,Amazon AWS,http://www.amazon.com/aws/
+3.5.76.0,3.5.87.255,Amazon AWS,http://www.amazon.com/aws/
+3.5.128.0,3.5.169.255,Amazon AWS,http://www.amazon.com/aws/
+3.5.208.0,3.5.213.255,Amazon AWS,http://www.amazon.com/aws/
+3.5.216.0,3.32.255.255,Amazon AWS,http://www.amazon.com/aws/
+3.33.34.0,3.33.35.255,Amazon AWS,http://www.amazon.com/aws/
+3.34.0.0,3.39.255.255,Amazon AWS,http://www.amazon.com/aws/
+3.64.0.0,3.99.255.255,Amazon AWS,http://www.amazon.com/aws/
+3.101.0.0,3.101.255.255,Amazon AWS,http://www.amazon.com/aws/
+3.104.0.0,3.115.255.255,Amazon AWS,http://www.amazon.com/aws/
+3.120.0.0,3.151.255.255,Amazon AWS,http://www.amazon.com/aws/
 3.208.0.0,3.239.255.255,Amazon AWS,http://www.amazon.com/aws/
+3.248.0.0,3.255.255.255,Amazon AWS,http://www.amazon.com/aws/
 5.9.0.0,5.9.255.255,Hetzner Online AG,http://www.hetzner.de/
 5.10.64.0,5.10.127.255,SoftLayer,http://www.softlayer.com/
 5.34.182.0,5.34.183.255,UA Servers,https://itldc.com/
@@ -36,6 +62,7 @@
 5.144.163.120,5.144.166.255,seeweb.it,http://seeweb.it/
 5.152.192.0,5.152.223.255,Redstation Limited,http://redstation.com/
 5.153.0.0,5.153.63.255,SoftLayer,http://www.softlayer.com/
+5.181.232.0,5.181.235.255,M247,http://m247.ro/
 5.189.144.0,5.189.159.255,Contabo GmbH,https://contabo.de/
 5.196.1.0,5.196.255.255,OVH FR,http://www.ovh.com
 5.199.129.64,5.199.129.95,myLoc,http://www.myloc.de/
@@ -63,54 +90,143 @@
 12.188.78.96,12.188.78.127,Media Temple,http://www.mediatemple.net/
 12.193.182.56,12.193.182.63,Ventu,http://Venyu.com/
 12.209.217.96,12.209.217.103,Media Temple,http://www.mediatemple.net/
-13.48.0.0,13.49.255.255,Amazon AWS,http://www.amazon.com/aws/
-13.52.0.0,13.59.255.255,Amazon AWS,http://www.amazon.com/aws/
+13.36.0.0,13.43.255.255,Amazon AWS,http://www.amazon.com/aws/
+13.48.0.0,13.59.255.255,Amazon AWS,http://www.amazon.com/aws/
 13.64.0.0,13.71.255.255,Microsoft Azure,http://www.windowsazure.com/en-us/
 13.72.64.0,13.72.127.255,Microsoft Azure,http://www.windowsazure.com/en-us/
 13.72.192.0,13.73.63.255,Microsoft Azure,http://www.windowsazure.com/en-us/
 13.73.96.0,13.73.207.255,Microsoft Azure,http://www.windowsazure.com/en-us/
 13.73.224.0,13.77.223.255,Microsoft Azure,http://www.windowsazure.com/en-us/
-13.78.0.0,13.88.193.255,Microsoft Azure,http://www.windowsazure.com/en-us/
+13.78.0.0,13.88.191.255,Microsoft Azure,http://www.windowsazure.com/en-us/
 13.88.200.0,13.95.255.255,Microsoft Azure,http://www.windowsazure.com/en-us/
+13.104.129.0,13.104.129.255,Microsoft Azure,http://www.windowsazure.com/en-us/
+13.104.144.0,13.104.159.255,Microsoft Azure,http://www.windowsazure.com/en-us/
+13.104.192.0,13.104.199.255,Microsoft Azure,http://www.windowsazure.com/en-us/
+13.104.208.0,13.104.223.255,Microsoft Azure,http://www.windowsazure.com/en-us/
+13.105.14.0,13.105.14.255,Microsoft Azure,http://www.windowsazure.com/en-us/
+13.105.16.0,13.105.16.127,Microsoft Azure,http://www.windowsazure.com/en-us/
+13.105.16.192,13.105.18.127,Microsoft Azure,http://www.windowsazure.com/en-us/
+13.105.18.160,13.105.27.127,Microsoft Azure,http://www.windowsazure.com/en-us/
+13.105.36.0,13.105.37.255,Microsoft Azure,http://www.windowsazure.com/en-us/
+13.105.52.0,13.105.53.255,Microsoft Azure,http://www.windowsazure.com/en-us/
+13.105.60.0,13.105.61.255,Microsoft Azure,http://www.windowsazure.com/en-us/
+13.105.66.0,13.105.66.31,Microsoft Azure,http://www.windowsazure.com/en-us/
+13.105.66.64,13.105.66.127,Microsoft Azure,http://www.windowsazure.com/en-us/
+13.105.66.144,13.105.66.159,Microsoft Azure,http://www.windowsazure.com/en-us/
+13.105.66.192,13.105.67.255,Microsoft Azure,http://www.windowsazure.com/en-us/
+13.105.74.48,13.105.74.63,Microsoft Azure,http://www.windowsazure.com/en-us/
+13.105.74.96,13.105.74.255,Microsoft Azure,http://www.windowsazure.com/en-us/
 13.112.0.0,13.115.255.255,Amazon AWS,http://www.amazon.com/aws/
 13.124.0.0,13.127.255.255,Amazon AWS,http://www.amazon.com/aws/
-13.208.0.0,13.211.255.255,Amazon AWS,http://www.amazon.com/aws/
+13.200.0.0,13.201.255.255,Amazon AWS,http://www.amazon.com/aws/
+13.208.0.0,13.215.255.255,Amazon AWS,http://www.amazon.com/aws/
 13.228.0.0,13.239.255.255,Amazon AWS,http://www.amazon.com/aws/
+13.244.0.0,13.247.255.255,Amazon AWS,http://www.amazon.com/aws/
 13.250.0.0,13.251.255.255,Amazon AWS,http://www.amazon.com/aws/
 14.102.144.0,14.102.146.255,IP ServerOne,http://ipserverone.com/
 14.128.8.0,14.128.11.255,Servenet Solution Limited Partnership,http://servenet.co.th/
+15.152.0.0,15.152.255.255,Amazon AWS,http://www.amazon.com/aws/
+15.156.0.0,15.157.255.255,Amazon AWS,http://www.amazon.com/aws/
+15.160.0.0,15.161.255.255,Amazon AWS,http://www.amazon.com/aws/
 15.164.0.0,15.165.255.255,Amazon AWS,http://www.amazon.com/aws/
-15.177.0.0,15.177.63.255,Amazon AWS,http://www.amazon.com/aws/
+15.168.0.0,15.168.255.255,Amazon AWS,http://www.amazon.com/aws/
+15.177.0.0,15.177.94.255,Amazon AWS,http://www.amazon.com/aws/
+15.177.96.0,15.177.100.255,Amazon AWS,http://www.amazon.com/aws/
+15.181.0.0,15.181.254.255,Amazon AWS,http://www.amazon.com/aws/
+15.184.0.0,15.185.255.255,Amazon AWS,http://www.amazon.com/aws/
+15.188.0.0,15.188.255.255,Amazon AWS,http://www.amazon.com/aws/
+15.193.0.0,15.193.10.255,Amazon AWS,http://www.amazon.com/aws/
+15.200.0.0,15.200.255.255,Amazon AWS,http://www.amazon.com/aws/
+15.205.0.0,15.207.255.255,Amazon AWS,http://www.amazon.com/aws/
+15.220.0.0,15.220.207.255,Amazon AWS,http://www.amazon.com/aws/
+15.220.208.128,15.220.208.191,Amazon AWS,http://www.amazon.com/aws/
+15.220.216.0,15.220.255.255,Amazon AWS,http://www.amazon.com/aws/
+15.222.0.0,15.223.255.255,Amazon AWS,http://www.amazon.com/aws/
+15.228.0.0,15.229.255.255,Amazon AWS,http://www.amazon.com/aws/
+15.236.0.0,15.237.255.255,Amazon AWS,http://www.amazon.com/aws/
+15.253.0.0,15.254.255.255,Amazon AWS,http://www.amazon.com/aws/
+16.16.0.0,16.16.255.255,Amazon AWS,http://www.amazon.com/aws/
+16.24.0.0,16.24.255.255,Amazon AWS,http://www.amazon.com/aws/
+16.50.0.0,16.51.255.255,Amazon AWS,http://www.amazon.com/aws/
+16.62.0.0,16.63.255.255,Amazon AWS,http://www.amazon.com/aws/
+16.162.0.0,16.163.255.255,Amazon AWS,http://www.amazon.com/aws/
+16.168.0.0,16.171.255.255,Amazon AWS,http://www.amazon.com/aws/
+18.34.0.0,18.34.79.255,Amazon AWS,http://www.amazon.com/aws/
+18.34.232.0,18.34.255.255,Amazon AWS,http://www.amazon.com/aws/
+18.60.0.0,18.61.255.255,Amazon AWS,http://www.amazon.com/aws/
+18.88.0.0,18.88.63.255,Amazon AWS,http://www.amazon.com/aws/
+18.88.128.0,18.88.191.255,Amazon AWS,http://www.amazon.com/aws/
+18.89.0.0,18.89.63.255,Amazon AWS,http://www.amazon.com/aws/
+18.100.0.0,18.102.255.255,Amazon AWS,http://www.amazon.com/aws/
+18.116.0.0,18.119.255.255,Amazon AWS,http://www.amazon.com/aws/
 18.130.0.0,18.130.255.255,Amazon AWS,http://www.amazon.com/aws/
-18.136.0.0,18.136.255.255,Amazon AWS,http://www.amazon.com/aws/
-18.138.0.0,18.139.255.255,Amazon AWS,http://www.amazon.com/aws/
-18.144.0.0,18.145.255.255,Amazon AWS,http://www.amazon.com/aws/
+18.132.0.0,18.136.255.255,Amazon AWS,http://www.amazon.com/aws/
+18.138.0.0,18.145.255.255,Amazon AWS,http://www.amazon.com/aws/
 18.153.0.0,18.153.255.255,Amazon AWS,http://www.amazon.com/aws/
-18.175.0.0,18.175.255.255,Amazon AWS,http://www.amazon.com/aws/
-18.179.0.0,18.179.255.255,Amazon AWS,http://www.amazon.com/aws/
-18.182.0.0,18.182.255.255,Amazon AWS,http://www.amazon.com/aws/
-18.184.0.0,18.185.255.255,Amazon AWS,http://www.amazon.com/aws/
-18.188.0.0,18.188.255.255,Amazon AWS,http://www.amazon.com/aws/
-18.191.0.0,18.191.255.255,Amazon AWS,http://www.amazon.com/aws/
-18.194.0.0,18.197.255.255,Amazon AWS,http://www.amazon.com/aws/
-18.200.0.0,18.229.255.255,Amazon AWS,http://www.amazon.com/aws/
-18.231.0.0,18.237.255.255,Amazon AWS,http://www.amazon.com/aws/
+18.156.0.0,18.159.255.255,Amazon AWS,http://www.amazon.com/aws/
+18.162.0.0,18.163.255.255,Amazon AWS,http://www.amazon.com/aws/
+18.166.0.0,18.171.255.255,Amazon AWS,http://www.amazon.com/aws/
+18.175.0.0,18.185.255.255,Amazon AWS,http://www.amazon.com/aws/
+18.188.0.0,18.237.255.255,Amazon AWS,http://www.amazon.com/aws/
 18.246.0.0,18.246.255.255,Amazon AWS,http://www.amazon.com/aws/
-18.253.0.0,18.253.255.255,Amazon AWS,http://www.amazon.com/aws/
-20.36.0.0,20.37.63.255,Microsoft Azure,http://www.windowsazure.com/en-us/
-20.37.96.0,20.37.255.255,Microsoft Azure,http://www.windowsazure.com/en-us/
+18.252.0.0,18.254.255.255,Amazon AWS,http://www.amazon.com/aws/
+20.36.0.0,20.37.255.255,Microsoft Azure,http://www.windowsazure.com/en-us/
 20.38.64.0,20.38.109.255,Microsoft Azure,http://www.windowsazure.com/en-us/
-20.38.112.0,20.38.114.127,Microsoft Azure,http://www.windowsazure.com/en-us/
-20.38.116.0,20.38.117.255,Microsoft Azure,http://www.windowsazure.com/en-us/
-20.38.122.0,20.38.123.255,Microsoft Azure,http://www.windowsazure.com/en-us/
-20.38.126.0,20.38.127.255,Microsoft Azure,http://www.windowsazure.com/en-us/
-20.38.144.0,20.38.151.255,Microsoft Azure,http://www.windowsazure.com/en-us/
-20.38.184.0,20.38.191.255,Microsoft Azure,http://www.windowsazure.com/en-us/
-20.39.0.0,20.43.95.255,Microsoft Azure,http://www.windowsazure.com/en-us/
+20.38.112.0,20.38.118.255,Microsoft Azure,http://www.windowsazure.com/en-us/
+20.38.120.0,20.38.159.255,Microsoft Azure,http://www.windowsazure.com/en-us/
+20.38.184.0,20.38.203.255,Microsoft Azure,http://www.windowsazure.com/en-us/
+20.38.208.0,20.38.211.255,Microsoft Azure,http://www.windowsazure.com/en-us/
+20.39.0.0,20.40.23.255,Microsoft Azure,http://www.windowsazure.com/en-us/
+20.40.32.0,20.43.111.255,Microsoft Azure,http://www.windowsazure.com/en-us/
 20.43.120.0,20.43.255.255,Microsoft Azure,http://www.windowsazure.com/en-us/
-20.44.8.0,20.45.63.255,Microsoft Azure,http://www.windowsazure.com/en-us/
-20.184.0.0,20.190.148.255,Microsoft Azure,http://www.windowsazure.com/en-us/
-20.190.192.0,20.191.255.255,Microsoft Azure,http://www.windowsazure.com/en-us/
+20.44.8.0,20.45.95.255,Microsoft Azure,http://www.windowsazure.com/en-us/
+20.45.120.0,20.46.63.255,Microsoft Azure,http://www.windowsazure.com/en-us/
+20.46.96.0,20.46.127.255,Microsoft Azure,http://www.windowsazure.com/en-us/
+20.46.144.0,20.47.12.255,Microsoft Azure,http://www.windowsazure.com/en-us/
+20.47.15.0,20.48.199.255,Microsoft Azure,http://www.windowsazure.com/en-us/
+20.49.0.0,20.49.63.255,Microsoft Azure,http://www.windowsazure.com/en-us/
+20.49.88.0,20.50.79.255,Microsoft Azure,http://www.windowsazure.com/en-us/
+20.50.96.0,20.51.23.255,Microsoft Azure,http://www.windowsazure.com/en-us/
+20.51.32.0,20.52.79.255,Microsoft Azure,http://www.windowsazure.com/en-us/
+20.52.128.0,20.52.191.255,Microsoft Azure,http://www.windowsazure.com/en-us/
+20.53.0.0,20.53.32.15,Microsoft Azure,http://www.windowsazure.com/en-us/
+20.53.40.0,20.53.47.255,Microsoft Azure,http://www.windowsazure.com/en-us/
+20.53.64.0,20.60.2.255,Microsoft Azure,http://www.windowsazure.com/en-us/
+20.60.4.0,20.60.4.255,Microsoft Azure,http://www.windowsazure.com/en-us/
+20.60.6.0,20.60.8.255,Microsoft Azure,http://www.windowsazure.com/en-us/
+20.60.10.0,20.60.13.255,Microsoft Azure,http://www.windowsazure.com/en-us/
+20.60.15.0,20.60.37.255,Microsoft Azure,http://www.windowsazure.com/en-us/
+20.60.40.0,20.60.41.255,Microsoft Azure,http://www.windowsazure.com/en-us/
+20.60.128.0,20.60.133.255,Microsoft Azure,http://www.windowsazure.com/en-us/
+20.61.0.0,20.63.63.255,Microsoft Azure,http://www.windowsazure.com/en-us/
+20.63.128.0,20.63.191.255,Microsoft Azure,http://www.windowsazure.com/en-us/
+20.64.0.0,20.66.127.255,Microsoft Azure,http://www.windowsazure.com/en-us/
+20.135.0.0,20.135.27.255,Microsoft Azure,http://www.windowsazure.com/en-us/
+20.150.0.0,20.150.29.255,Microsoft Azure,http://www.windowsazure.com/en-us/
+20.150.31.0,20.150.43.255,Microsoft Azure,http://www.windowsazure.com/en-us/
+20.150.46.0,20.150.56.255,Microsoft Azure,http://www.windowsazure.com/en-us/
+20.150.58.0,20.150.63.255,Microsoft Azure,http://www.windowsazure.com/en-us/
+20.150.66.0,20.150.96.255,Microsoft Azure,http://www.windowsazure.com/en-us/
+20.150.98.0,20.150.98.255,Microsoft Azure,http://www.windowsazure.com/en-us/
+20.150.100.0,20.150.108.255,Microsoft Azure,http://www.windowsazure.com/en-us/
+20.150.110.0,20.150.119.255,Microsoft Azure,http://www.windowsazure.com/en-us/
+20.150.121.0,20.150.127.255,Microsoft Azure,http://www.windowsazure.com/en-us/
+20.151.0.0,20.151.127.255,Microsoft Azure,http://www.windowsazure.com/en-us/
+20.157.0.0,20.157.3.255,Microsoft Azure,http://www.windowsazure.com/en-us/
+20.157.32.0,20.157.37.255,Microsoft Azure,http://www.windowsazure.com/en-us/
+20.184.0.0,20.187.199.255,Microsoft Azure,http://www.windowsazure.com/en-us/
+20.187.224.0,20.190.180.255,Microsoft Azure,http://www.windowsazure.com/en-us/
+20.190.183.0,20.190.189.255,Microsoft Azure,http://www.windowsazure.com/en-us/
+20.190.192.0,20.192.31.255,Microsoft Azure,http://www.windowsazure.com/en-us/
+20.192.40.0,20.192.47.255,Microsoft Azure,http://www.windowsazure.com/en-us/
+20.192.64.0,20.192.103.255,Microsoft Azure,http://www.windowsazure.com/en-us/
+20.192.184.0,20.192.191.255,Microsoft Azure,http://www.windowsazure.com/en-us/
+20.193.0.0,20.193.127.255,Microsoft Azure,http://www.windowsazure.com/en-us/
+20.193.224.0,20.194.71.255,Microsoft Azure,http://www.windowsazure.com/en-us/
+20.194.96.0,20.195.63.255,Microsoft Azure,http://www.windowsazure.com/en-us/
+20.195.128.0,20.195.131.255,Microsoft Azure,http://www.windowsazure.com/en-us/
+20.195.136.0,20.195.151.255,Microsoft Azure,http://www.windowsazure.com/en-us/
+20.195.160.0,20.196.191.255,Microsoft Azure,http://www.windowsazure.com/en-us/
 23.0.0.0,23.15.255.255,Akamai,http://akamai.com/
 23.19.0.0,23.19.255.255,Ubiquity Server Solutions,http://www.ubiquityservers.com/
 23.20.0.0,23.23.255.255,Amazon AWS,http://www.amazon.com/aws/
@@ -128,8 +244,10 @@
 23.92.16.0,23.92.31.255,Linode,http://www.linode.com/
 23.94.0.0,23.95.255.255,ColoCrossing,http://www.colocrossing.com/
 23.96.0.0,23.96.255.255,Microsoft Azure,http://www.windowsazure.com/en-us/
-23.97.48.0,23.97.255.255,Microsoft Azure,http://www.windowsazure.com/en-us/
-23.98.32.0,23.98.57.255,Microsoft Azure,http://www.windowsazure.com/en-us/
+23.97.48.0,23.97.112.143,Microsoft Azure,http://www.windowsazure.com/en-us/
+23.97.116.0,23.97.255.255,Microsoft Azure,http://www.windowsazure.com/en-us/
+23.98.32.0,23.98.56.255,Microsoft Azure,http://www.windowsazure.com/en-us/
+23.98.57.64,23.98.57.127,Microsoft Azure,http://www.windowsazure.com/en-us/
 23.98.64.0,23.100.191.255,Microsoft Azure,http://www.windowsazure.com/en-us/
 23.100.224.0,23.101.39.255,Microsoft Azure,http://www.windowsazure.com/en-us/
 23.101.48.0,23.101.87.255,Microsoft Azure,http://www.windowsazure.com/en-us/
@@ -137,6 +255,7 @@
 23.103.64.32,23.103.64.95,Microsoft Azure,http://www.windowsazure.com/en-us/
 23.103.66.0,23.103.67.255,Microsoft Azure,http://www.windowsazure.com/en-us/
 23.104.0.0,23.111.255.255,Ubiquity Server Solutions,http://www.ubiquityservers.com/
+23.134.192.0,23.134.192.255,NOLA Broadband,https://www.nolabroadband.com/
 23.192.0.0,23.223.255.255,Akamai,http://akamai.com/
 23.226.64.0,23.226.79.255,Input Output Flood LLC,http://ioflood.com/
 23.227.160.0,23.227.191.255,Incero,http://www.incero.com/
@@ -177,6 +296,7 @@
 31.31.32.0,31.31.39.255,RapidSpeeds Servers LTD,http://rapidspeeds.com/
 31.31.72.0,31.31.79.255,wedos,http://www.wedos.com/
 31.44.224.0,31.44.239.255,PatrikWeb,http://patrikweb.net/
+31.47.73.0,31.47.73.255,Tecnocratica,https://tecnocratica.net/
 31.47.208.0,31.47.215.255,everhost,http://everhost.co/
 31.130.200.0,31.130.207.255,datahata.by,http://datahata.by/
 31.131.16.0,31.131.31.255,vps.ua,http://vps.ua/
@@ -190,6 +310,7 @@
 31.172.240.0,31.172.255.255,Tagadab,http://tagadab.com/
 31.177.95.0,31.177.95.255,RU-CENTER,https://www.nic.ru/en/
 31.184.192.0,31.184.199.255,Petersburg Internet Network ltd.,http://pinspb.ru/
+31.184.233.0,31.184.233.255,Virty.io,https://virty.io/en/
 31.184.242.0,31.184.242.255,mrhost.biz,http://mrhost.biz/
 31.185.104.0,31.185.111.255,nbiserv.de,http://nbiserv.de/
 31.187.64.0,31.187.66.255,servhost.de,http://servhost.de/
@@ -210,16 +331,26 @@
 31.220.104.0,31.220.104.255,Hostinger,https://www.hostinger.com/
 31.220.128.0,31.220.131.255,everhost,http://everhost.co/
 31.222.128.0,31.222.191.255,Rackspace,http://www.rackspace.com/
+34.64.0.0,34.100.255.255,Google App Engine,https://cloud.google.com/appengine
+34.102.0.0,34.107.255.255,Google App Engine,https://cloud.google.com/appengine
+34.124.0.0,34.124.81.255,Google App Engine,https://cloud.google.com/appengine
+34.124.84.0,34.124.89.255,Google App Engine,https://cloud.google.com/appengine
+34.124.92.0,34.124.95.255,Google App Engine,https://cloud.google.com/appengine
+34.125.0.0,34.125.255.255,Google App Engine,https://cloud.google.com/appengine
 34.192.0.0,34.255.255.255,Amazon AWS,http://www.amazon.com/aws/
-35.153.0.0,35.183.255.255,Amazon AWS,http://www.amazon.com/aws/
-35.184.0.0,35.190.223.255,Google App Engine,https://cloud.google.com/appengine
+35.71.64.0,35.71.75.255,Amazon AWS,http://www.amazon.com/aws/
+35.71.96.0,35.71.121.255,Amazon AWS,http://www.amazon.com/aws/
+35.72.0.0,35.95.255.255,Amazon AWS,http://www.amazon.com/aws/
+35.152.0.0,35.183.255.255,Amazon AWS,http://www.amazon.com/aws/
+35.184.0.0,35.190.243.255,Google App Engine,https://cloud.google.com/appengine
 35.192.0.0,35.199.191.255,Google App Engine,https://cloud.google.com/appengine
-35.200.0.0,35.201.255.255,Google App Engine,https://cloud.google.com/appengine
-35.203.0.0,35.203.223.255,Google App Engine,https://cloud.google.com/appengine
-35.203.240.0,35.215.255.255,Google App Engine,https://cloud.google.com/appengine
-35.216.128.0,35.216.255.255,Google App Engine,https://cloud.google.com/appengine
-35.217.128.0,35.217.255.255,Google App Engine,https://cloud.google.com/appengine
+35.200.0.0,35.217.255.255,Google App Engine,https://cloud.google.com/appengine
+35.219.192.0,35.219.192.255,Google App Engine,https://cloud.google.com/appengine
+35.220.0.0,35.235.127.255,Google App Engine,https://cloud.google.com/appengine
+35.235.192.0,35.235.207.255,Google App Engine,https://cloud.google.com/appengine
 35.235.216.0,35.235.239.255,Google App Engine,https://cloud.google.com/appengine
+35.236.0.0,35.247.255.255,Google App Engine,https://cloud.google.com/appengine
+37.9.61.0,37.9.61.255,UK Servers,https://www.ukservers.com/
 37.9.169.0,37.9.169.255,WebSupport,https://www.websupport.sk/
 37.9.224.0,37.9.228.223,seeweb.it,http://seeweb.it/
 37.10.0.0,37.10.127.255,Optimate Server,http://optimate-server.de/
@@ -237,6 +368,7 @@
 37.72.168.0,37.72.168.255,Swiftway,http://swiftway.net/
 37.72.171.0,37.72.171.255,Swiftway,http://swiftway.net/
 37.72.173.0,37.72.173.127,Swiftway,http://swiftway.net/
+37.120.147.0,37.120.147.255,M240,http://m240.ro/
 37.122.208.0,37.122.211.255,Webfusion,http://www.webfusion.com/
 37.123.112.0,37.123.112.255,UK2 Group,http://www.uk2.net/
 37.123.114.0,37.123.115.255,UK2 Group,http://www.vps.net/
@@ -325,26 +457,42 @@
 37.221.160.224,37.221.160.255,CINIPAC,http://cinipac.com/
 37.235.49.0,37.235.49.255,EDIS,http://www.edis.at/
 37.235.53.0,37.235.63.255,EDIS,http://www.edis.at/
-40.64.0.0,40.65.255.255,Microsoft Azure,http://www.windowsazure.com/en-us/
+38.68.134.0,38.68.135.255,GTHost,https://gthost.com/
+38.72.132.0,38.72.132.255,GTHost,https://gthost.com/
+38.75.136.0,38.75.137.255,GTHost,https://gthost.com/
+38.86.135.0,38.86.135.255,GTHost,https://gthost.com/
+38.91.100.0,38.91.102.255,GTHost,https://gthost.com/
+38.91.106.0,38.91.107.255,GTHost,https://gthost.com/
+38.99.247.0,38.99.247.255,GTHost,https://gthost.com/
+38.114.114.0,38.114.114.255,GTHost,https://gthost.com/
+38.114.119.0,38.114.119.255,GTHost,https://gthost.com/
+38.121.43.0,38.121.43.255,GTHost,https://gthost.com/
+38.123.137.0,38.123.137.255,LaunchVPS,https://launchvps.com/
+38.128.66.0,38.128.66.255,GTHost,https://gthost.com/
+38.143.66.0,38.143.66.255,GTHost,https://gthost.com/
+40.64.64.0,40.64.135.255,Microsoft Azure,http://www.windowsazure.com/en-us/
+40.65.0.0,40.65.255.255,Microsoft Azure,http://www.windowsazure.com/en-us/
 40.66.32.0,40.66.63.255,Microsoft Azure,http://www.windowsazure.com/en-us/
 40.66.120.0,40.66.127.255,Microsoft Azure,http://www.windowsazure.com/en-us/
-40.67.128.0,40.69.223.255,Microsoft Azure,http://www.windowsazure.com/en-us/
+40.67.120.0,40.69.223.255,Microsoft Azure,http://www.windowsazure.com/en-us/
 40.70.0.0,40.70.88.15,Microsoft Azure,http://www.windowsazure.com/en-us/
 40.70.128.0,40.71.255.255,Microsoft Azure,http://www.windowsazure.com/en-us/
 40.74.0.0,40.75.39.255,Microsoft Azure,http://www.windowsazure.com/en-us/
-40.75.64.0,40.77.130.127,Microsoft Azure,http://www.windowsazure.com/en-us/
-40.77.130.192,40.77.136.111,Microsoft Azure,http://www.windowsazure.com/en-us/
-40.77.160.0,40.77.166.144,Microsoft Azure,http://www.windowsazure.com/en-us/
-40.77.166.160,40.77.186.63,Microsoft Azure,http://www.windowsazure.com/en-us/
-40.77.186.128,40.77.198.63,Microsoft Azure,http://www.windowsazure.com/en-us/
-40.77.198.128,40.77.199.127,Microsoft Azure,http://www.windowsazure.com/en-us/
-40.77.224.0,40.77.236.71,Microsoft Azure,http://www.windowsazure.com/en-us/
+40.75.64.0,40.77.136.111,Microsoft Azure,http://www.windowsazure.com/en-us/
+40.77.136.128,40.77.137.223,Microsoft Azure,http://www.windowsazure.com/en-us/
+40.77.138.0,40.77.139.255,Microsoft Azure,http://www.windowsazure.com/en-us/
+40.77.160.0,40.77.166.143,Microsoft Azure,http://www.windowsazure.com/en-us/
+40.77.166.160,40.77.175.223,Microsoft Azure,http://www.windowsazure.com/en-us/
+40.77.175.240,40.77.202.255,Microsoft Azure,http://www.windowsazure.com/en-us/
+40.77.224.0,40.77.236.63,Microsoft Azure,http://www.windowsazure.com/en-us/
 40.77.236.80,40.77.236.207,Microsoft Azure,http://www.windowsazure.com/en-us/
-40.77.237.0,40.77.237.127,Microsoft Azure,http://www.windowsazure.com/en-us/
-40.77.240.0,40.77.254.63,Microsoft Azure,http://www.windowsazure.com/en-us/
+40.77.237.0,40.77.237.255,Microsoft Azure,http://www.windowsazure.com/en-us/
+40.77.240.0,40.77.243.255,Microsoft Azure,http://www.windowsazure.com/en-us/
+40.77.245.0,40.77.254.63,Microsoft Azure,http://www.windowsazure.com/en-us/
 40.77.254.128,40.78.208.35,Microsoft Azure,http://www.windowsazure.com/en-us/
 40.78.208.48,40.78.208.79,Microsoft Azure,http://www.windowsazure.com/en-us/
-40.78.210.0,40.78.214.255,Microsoft Azure,http://www.windowsazure.com/en-us/
+40.78.209.0,40.78.211.255,Microsoft Azure,http://www.windowsazure.com/en-us/
+40.78.214.0,40.78.214.255,Microsoft Azure,http://www.windowsazure.com/en-us/
 40.78.216.0,40.79.8.47,Microsoft Azure,http://www.windowsazure.com/en-us/
 40.79.8.64,40.79.8.111,Microsoft Azure,http://www.windowsazure.com/en-us/
 40.79.9.0,40.79.9.255,Microsoft Azure,http://www.windowsazure.com/en-us/
@@ -355,37 +503,38 @@
 40.79.92.0,40.79.93.15,Microsoft Azure,http://www.windowsazure.com/en-us/
 40.79.94.0,40.79.95.15,Microsoft Azure,http://www.windowsazure.com/en-us/
 40.79.96.0,40.79.199.255,Microsoft Azure,http://www.windowsazure.com/en-us/
-40.79.201.0,40.79.202.255,Microsoft Azure,http://www.windowsazure.com/en-us/
+40.79.201.0,40.79.203.255,Microsoft Azure,http://www.windowsazure.com/en-us/
 40.79.208.0,40.79.223.255,Microsoft Azure,http://www.windowsazure.com/en-us/
-40.79.232.0,40.80.7.255,Microsoft Azure,http://www.windowsazure.com/en-us/
-40.80.12.0,40.80.111.255,Microsoft Azure,http://www.windowsazure.com/en-us/
+40.79.232.0,40.80.3.255,Microsoft Azure,http://www.windowsazure.com/en-us/
+40.80.12.0,40.80.27.255,Microsoft Azure,http://www.windowsazure.com/en-us/
+40.80.32.0,40.80.111.255,Microsoft Azure,http://www.windowsazure.com/en-us/
 40.80.144.0,40.80.160.255,Microsoft Azure,http://www.windowsazure.com/en-us/
-40.80.168.0,40.80.175.255,Microsoft Azure,http://www.windowsazure.com/en-us/
-40.80.184.0,40.82.19.255,Microsoft Azure,http://www.windowsazure.com/en-us/
-40.82.24.0,40.82.51.255,Microsoft Azure,http://www.windowsazure.com/en-us/
-40.82.60.0,40.82.63.255,Microsoft Azure,http://www.windowsazure.com/en-us/
-40.82.88.0,40.82.103.255,Microsoft Azure,http://www.windowsazure.com/en-us/
-40.82.128.0,40.87.239.255,Microsoft Azure,http://www.windowsazure.com/en-us/
+40.80.168.0,40.82.75.255,Microsoft Azure,http://www.windowsazure.com/en-us/
+40.82.84.0,40.87.170.233,Microsoft Azure,http://www.windowsazure.com/en-us/
+40.87.172.0,40.87.176.167,Microsoft Azure,http://www.windowsazure.com/en-us/
+40.87.176.174,40.87.176.175,Microsoft Azure,http://www.windowsazure.com/en-us/
+40.87.176.184,40.87.176.187,Microsoft Azure,http://www.windowsazure.com/en-us/
+40.87.176.192,40.87.176.207,Microsoft Azure,http://www.windowsazure.com/en-us/
+40.87.176.216,40.87.176.233,Microsoft Azure,http://www.windowsazure.com/en-us/
+40.87.176.240,40.87.176.255,Microsoft Azure,http://www.windowsazure.com/en-us/
+40.87.177.16,40.87.177.121,Microsoft Azure,http://www.windowsazure.com/en-us/
+40.87.177.124,40.87.177.153,Microsoft Azure,http://www.windowsazure.com/en-us/
+40.87.177.156,40.87.177.203,Microsoft Azure,http://www.windowsazure.com/en-us/
+40.87.177.212,40.87.177.223,Microsoft Azure,http://www.windowsazure.com/en-us/
+40.87.180.0,40.87.180.13,Microsoft Azure,http://www.windowsazure.com/en-us/
+40.87.182.0,40.87.239.255,Microsoft Azure,http://www.windowsazure.com/en-us/
 40.88.0.0,40.89.255.255,Microsoft Azure,http://www.windowsazure.com/en-us/
 40.90.16.0,40.90.16.31,Microsoft Azure,http://www.windowsazure.com/en-us/
-40.90.16.128,40.90.16.255,Microsoft Azure,http://www.windowsazure.com/en-us/
-40.90.17.32,40.90.18.15,Microsoft Azure,http://www.windowsazure.com/en-us/
+40.90.16.64,40.90.18.15,Microsoft Azure,http://www.windowsazure.com/en-us/
+40.90.18.32,40.90.31.31,Microsoft Azure,http://www.windowsazure.com/en-us/
+40.90.31.96,40.90.31.255,Microsoft Azure,http://www.windowsazure.com/en-us/
 40.90.128.0,40.90.128.31,Microsoft Azure,http://www.windowsazure.com/en-us/
-40.90.128.80,40.90.128.95,Microsoft Azure,http://www.windowsazure.com/en-us/
-40.90.128.112,40.90.128.143,Microsoft Azure,http://www.windowsazure.com/en-us/
-40.90.128.160,40.90.128.191,Microsoft Azure,http://www.windowsazure.com/en-us/
-40.90.129.192,40.90.130.143,Microsoft Azure,http://www.windowsazure.com/en-us/
-40.90.130.160,40.90.133.159,Microsoft Azure,http://www.windowsazure.com/en-us/
-40.90.136.0,40.90.143.127,Microsoft Azure,http://www.windowsazure.com/en-us/
-40.90.143.160,40.90.151.63,Microsoft Azure,http://www.windowsazure.com/en-us/
-40.90.151.96,40.90.151.143,Microsoft Azure,http://www.windowsazure.com/en-us/
-40.90.151.160,40.90.151.191,Microsoft Azure,http://www.windowsazure.com/en-us/
-40.90.152.0,40.90.152.127,Microsoft Azure,http://www.windowsazure.com/en-us/
-40.90.152.160,40.90.152.223,Microsoft Azure,http://www.windowsazure.com/en-us/
-40.90.153.0,40.90.153.255,Microsoft Azure,http://www.windowsazure.com/en-us/
-40.90.154.32,40.90.156.95,Microsoft Azure,http://www.windowsazure.com/en-us/
-40.90.156.128,40.90.156.191,Microsoft Azure,http://www.windowsazure.com/en-us/
-40.90.160.0,40.91.7.255,Microsoft Azure,http://www.windowsazure.com/en-us/
+40.90.128.48,40.90.128.255,Microsoft Azure,http://www.windowsazure.com/en-us/
+40.90.129.48,40.90.129.63,Microsoft Azure,http://www.windowsazure.com/en-us/
+40.90.129.96,40.90.133.143,Microsoft Azure,http://www.windowsazure.com/en-us/
+40.90.133.160,40.90.145.95,Microsoft Azure,http://www.windowsazure.com/en-us/
+40.90.145.160,40.90.151.191,Microsoft Azure,http://www.windowsazure.com/en-us/
+40.90.151.224,40.91.7.255,Microsoft Azure,http://www.windowsazure.com/en-us/
 40.91.12.0,40.91.12.143,Microsoft Azure,http://www.windowsazure.com/en-us/
 40.91.12.160,40.91.12.191,Microsoft Azure,http://www.windowsazure.com/en-us/
 40.91.12.208,40.91.12.223,Microsoft Azure,http://www.windowsazure.com/en-us/
@@ -394,23 +543,38 @@
 40.91.13.128,40.91.13.159,Microsoft Azure,http://www.windowsazure.com/en-us/
 40.91.13.240,40.91.14.255,Microsoft Azure,http://www.windowsazure.com/en-us/
 40.91.16.0,40.91.35.255,Microsoft Azure,http://www.windowsazure.com/en-us/
-40.91.64.0,40.91.255.255,Microsoft Azure,http://www.windowsazure.com/en-us/
-40.112.0.0,40.112.31.255,Microsoft Azure,http://www.windowsazure.com/en-us/
+40.91.64.0,40.91.127.255,Microsoft Azure,http://www.windowsazure.com/en-us/
+40.91.160.0,40.91.255.255,Microsoft Azure,http://www.windowsazure.com/en-us/
+40.93.0.0,40.93.2.255,Microsoft Azure,http://www.windowsazure.com/en-us/
+40.93.4.0,40.93.4.255,Microsoft Azure,http://www.windowsazure.com/en-us/
 40.112.36.0,40.112.37.255,Microsoft Azure,http://www.windowsazure.com/en-us/
 40.112.38.192,40.112.39.191,Microsoft Azure,http://www.windowsazure.com/en-us/
-40.112.48.0,40.119.63.255,Microsoft Azure,http://www.windowsazure.com/en-us/
-40.119.128.0,40.119.167.255,Microsoft Azure,http://www.windowsazure.com/en-us/
-40.119.192.0,40.119.255.255,Microsoft Azure,http://www.windowsazure.com/en-us/
-40.121.0.0,40.123.127.255,Microsoft Azure,http://www.windowsazure.com/en-us/
-40.124.0.0,40.124.255.255,Microsoft Azure,http://www.windowsazure.com/en-us/
-40.125.64.0,40.125.127.255,Microsoft Azure,http://www.windowsazure.com/en-us/
-40.126.0.0,40.126.20.255,Microsoft Azure,http://www.windowsazure.com/en-us/
-40.126.128.0,40.126.191.255,Microsoft Azure,http://www.windowsazure.com/en-us/
-40.126.224.0,40.126.255.255,Microsoft Azure,http://www.windowsazure.com/en-us/
+40.112.48.0,40.119.87.255,Microsoft Azure,http://www.windowsazure.com/en-us/
+40.119.92.0,40.119.99.255,Microsoft Azure,http://www.windowsazure.com/en-us/
+40.119.104.0,40.119.111.255,Microsoft Azure,http://www.windowsazure.com/en-us/
+40.119.128.0,40.120.127.255,Microsoft Azure,http://www.windowsazure.com/en-us/
+40.121.0.0,40.123.131.255,Microsoft Azure,http://www.windowsazure.com/en-us/
+40.123.192.0,40.125.127.255,Microsoft Azure,http://www.windowsazure.com/en-us/
+40.126.0.0,40.126.52.255,Microsoft Azure,http://www.windowsazure.com/en-us/
+40.126.55.0,40.126.61.255,Microsoft Azure,http://www.windowsazure.com/en-us/
+40.126.128.0,40.126.195.255,Microsoft Azure,http://www.windowsazure.com/en-us/
+40.126.197.0,40.126.198.255,Microsoft Azure,http://www.windowsazure.com/en-us/
+40.126.200.0,40.126.201.255,Microsoft Azure,http://www.windowsazure.com/en-us/
+40.126.207.0,40.127.31.255,Microsoft Azure,http://www.windowsazure.com/en-us/
 40.127.64.0,40.127.111.255,Microsoft Azure,http://www.windowsazure.com/en-us/
 40.127.128.0,40.127.255.255,Microsoft Azure,http://www.windowsazure.com/en-us/
+40.176.0.0,40.177.255.255,Amazon AWS,http://www.amazon.com/aws/
 42.1.60.0,42.1.63.255,Exa Bytes Network Sdn Bhd,http://exabytes.com/
+42.120.160.0,42.120.161.255,Alibaba,http://alibaba-inc.com/
+42.156.136.0,42.156.139.255,Alibaba,http://alibaba-inc.com/
+42.156.254.0,42.156.254.255,Alibaba,http://alibaba-inc.com/
+43.192.0.0,43.193.127.255,Amazon AWS,http://www.amazon.com/aws/
+43.196.0.0,43.196.255.255,Amazon AWS,http://www.amazon.com/aws/
+43.198.0.0,43.207.255.255,Amazon AWS,http://www.amazon.com/aws/
+43.218.0.0,43.218.255.255,Amazon AWS,http://www.amazon.com/aws/
+43.245.160.0,43.245.163.255,Intergrid,https://intergrid.com.au/
 43.249.72.0,43.249.75.255,Fastly,https://www.fastly.com/
+44.192.0.0,44.255.255.255,Amazon AWS,http://www.amazon.com/aws/
 45.32.0.0,45.32.255.255,Choopa,https://www.choopa.com/
 45.33.0.0,45.33.127.255,Linode,http://www.linode.com/
 45.34.0.0,45.35.255.255,Psychz Networks,http://psychz.net/
@@ -422,7 +586,15 @@
 45.59.128.0,45.59.191.255,Roya Hosting,http://www.royahosting.com/
 45.62.192.0,45.62.255.255,KW Datacenter CA,http://www.kwdatacentre.com/
 45.63.0.0,45.63.127.255,Choopa,https://www.choopa.com/
+45.73.38.26,45.73.38.26,unknown,unknown
+45.73.43.66,45.73.43.66,unknown,unknown
 45.76.0.0,45.77.255.255,Choopa,https://www.choopa.com/
+45.125.236.0,45.125.239.255,Ftech,https://www.ftech.vn/
+45.128.158.0,45.128.158.255,GTHost,https://gthost.com/
+45.134.178.0,45.134.178.255,GTHost,https://gthost.com/
+45.138.1.0,45.138.1.255,GTHost,https://gthost.com/
+45.139.158.0,45.139.158.255,GTHost,https://gthost.com/
+45.248.77.0,45.248.77.255,Host Universal,http://hostuniversal.com.au/
 46.4.0.0,46.4.255.255,Hetzner Online AG,http://www.hetzner.de/
 46.16.184.0,46.16.191.255,SoftLayer,http://www.softlayer.com/
 46.17.0.0,46.17.7.255,Flexwebhosting.nl,http://www.flexwebhosting.nl/
@@ -450,9 +622,10 @@
 46.38.160.0,46.38.191.255,Rackspace,http://www.rackspace.com/
 46.45.128.0,46.45.191.255,Radore Hosting,http://as42926.net/
 46.51.96.0,46.51.96.255,everhost,http://everhost.co/
-46.51.128.0,46.51.207.255,Amazon AWS,http://www.amazon.com/aws/
+46.51.128.0,46.51.211.255,Amazon AWS,http://www.amazon.com/aws/
 46.51.216.0,46.51.255.255,Amazon AWS,http://www.amazon.com/aws/
 46.101.0.0,46.101.127.255,DigitalOcean Great Britain,https://www.digitalocean.com/
+46.101.128.0,46.101.255.255,DigitalOcean,https://www.digitalocean.com/
 46.102.224.0,46.102.231.255,simpliq.com,http://www.simpliq.com/
 46.102.240.0,46.102.247.255,Elvsoft,http://www.elvsoft.com/
 46.102.251.0,46.102.251.255,everhost.ro,http://everhost.ro/
@@ -465,6 +638,7 @@
 46.166.160.0,46.166.175.255,Duomenu Centras Lithuania,http://www.duomenucentras.lt/lt/
 46.167.244.0,46.167.246.255,FinalTek.com,http://www.finaltek.com/
 46.175.56.0,46.175.63.255,Vautron AG,http://www.vautron.de/
+46.182.6.0,46.182.6.255,Hosteur,https://www.hosteur.com/
 46.182.16.0,46.182.23.255,nbiserv.de,http://nbiserv.de/
 46.182.120.0,46.182.127.255,RapidSpeeds Servers LTD,http://rapidspeeds.com/
 46.182.240.0,46.182.247.255,Unbelievable Machine,http://www.unbelievable-machine.com/
@@ -479,12 +653,15 @@
 46.231.120.0,46.231.127.255,dinahosting,https://en.dinahosting.com/
 46.231.176.0,46.231.183.255,Unbelievable Machine,http://www.unbelievable-machine.com/
 46.234.96.0,46.234.127.255,SuperNetwork,http://www.superhosting.cz/
+46.235.40.0,46.235.42.255,WebReus,https://webreus.nl/
 46.243.88.0,46.243.95.255,alfahosting.de,http://alfahosting.de/
 46.246.0.0,46.246.127.255,Portlane,http://www.portlane.com/
 46.249.32.0,46.249.63.255,Servinus,http://serverius.nl/
 46.251.224.0,46.251.255.255,Optimate Server,http://optimate-server.de/
 46.254.16.0,46.254.23.255,ihc.ru,http://www.ihc.ru/
 47.91.0.0,47.91.31.255,Alibaba Cloud Japan,https://www.alibabacloud.com/
+47.128.0.0,47.131.255.255,Amazon AWS,http://www.amazon.com/aws/
+47.184.115.223,47.184.115.223,unknown,unknown
 49.247.0.0,49.247.255.255,1000dedi.net,http://www.1000dedi.net/
 50.2.0.0,50.3.255.255,infinitie.net,http://www.serverhub.com/
 50.7.0.0,50.7.255.255,FDC Servers,http://fdcservers.net/
@@ -510,75 +687,136 @@
 50.116.0.0,50.116.63.255,Linode,http://www.linode.com/
 50.116.64.0,50.116.127.255,WebsiteWelcome.com,http://www.websitewelcome.com/
 50.117.0.0,50.117.127.255,EGIHosting.com,http://www.egihosting.com/
+50.244.65.77,50.244.65.77,unknown,unknown
+51.11.0.0,51.11.255.255,Microsoft Azure,http://www.windowsazure.com/en-us/
+51.13.0.0,51.13.159.255,Microsoft Azure,http://www.windowsazure.com/en-us/
 51.15.0.0,51.15.255.255,Online.net,https://www.online.net/en
+51.16.0.0,51.17.255.255,Amazon AWS,http://www.amazon.com/aws/
 51.38.80.0,51.38.255.255,OVH,http://www.ovh.co.uk/
-51.104.0.0,51.105.79.255,Microsoft Azure,http://www.windowsazure.com/en-us/
-51.105.128.0,51.105.255.255,Microsoft Azure,http://www.windowsazure.com/en-us/
-51.136.0.0,51.137.255.255,Microsoft Azure,http://www.windowsazure.com/en-us/
+51.103.0.0,51.103.191.255,Microsoft Azure,http://www.windowsazure.com/en-us/
+51.104.0.0,51.105.255.255,Microsoft Azure,http://www.windowsazure.com/en-us/
+51.107.0.0,51.107.175.255,Microsoft Azure,http://www.windowsazure.com/en-us/
+51.107.192.0,51.107.255.255,Microsoft Azure,http://www.windowsazure.com/en-us/
+51.112.0.0,51.112.255.255,Amazon AWS,http://www.amazon.com/aws/
+51.116.0.0,51.116.255.255,Microsoft Azure,http://www.windowsazure.com/en-us/
+51.120.0.0,51.120.231.255,Microsoft Azure,http://www.windowsazure.com/en-us/
+51.120.240.0,51.120.255.255,Microsoft Azure,http://www.windowsazure.com/en-us/
+51.124.0.0,51.124.191.255,Microsoft Azure,http://www.windowsazure.com/en-us/
+51.132.0.0,51.132.255.255,Microsoft Azure,http://www.windowsazure.com/en-us/
+51.136.0.0,51.138.167.255,Microsoft Azure,http://www.windowsazure.com/en-us/
+51.138.192.0,51.138.223.255,Microsoft Azure,http://www.windowsazure.com/en-us/
 51.140.0.0,51.141.130.127,Microsoft Azure,http://www.windowsazure.com/en-us/
-51.141.132.0,51.141.137.255,Microsoft Azure,http://www.windowsazure.com/en-us/
-51.141.144.0,51.145.255.255,Microsoft Azure,http://www.windowsazure.com/en-us/
+51.141.132.0,51.141.139.255,Microsoft Azure,http://www.windowsazure.com/en-us/
+51.141.156.0,51.143.200.15,Microsoft Azure,http://www.windowsazure.com/en-us/
+51.143.201.0,51.143.201.255,Microsoft Azure,http://www.windowsazure.com/en-us/
+51.143.208.0,51.145.255.255,Microsoft Azure,http://www.windowsazure.com/en-us/
 51.254.0.0,51.255.255.255,OVH,http://www.ovh.co.uk/
 52.0.0.0,52.45.255.255,Amazon AWS,http://www.amazon.com/aws/
 52.46.180.0,52.46.187.255,Amazon AWS,http://www.amazon.com/aws/
 52.47.0.0,52.82.127.255,Amazon AWS,http://www.amazon.com/aws/
-52.82.176.0,52.82.183.255,Amazon AWS,http://www.amazon.com/aws/
+52.82.164.0,52.82.169.15,Amazon AWS,http://www.amazon.com/aws/
+52.82.170.0,52.82.170.255,Amazon AWS,http://www.amazon.com/aws/
+52.82.176.0,52.82.185.255,Amazon AWS,http://www.amazon.com/aws/
 52.83.0.0,52.83.255.255,Amazon AWS,http://www.amazon.com/aws/
 52.86.0.0,52.91.255.255,Amazon AWS,http://www.amazon.com/aws/
 52.94.116.0,52.94.119.255,Amazon AWS,http://www.amazon.com/aws/
+52.94.144.0,52.94.146.255,Amazon AWS,http://www.amazon.com/aws/
+52.94.201.0,52.94.201.63,Amazon AWS,http://www.amazon.com/aws/
 52.94.248.0,52.94.248.239,Amazon AWS,http://www.amazon.com/aws/
-52.94.249.0,52.94.249.47,Amazon AWS,http://www.amazon.com/aws/
-52.94.249.64,52.94.249.143,Amazon AWS,http://www.amazon.com/aws/
-52.95.225.0,52.95.225.255,Amazon AWS,http://www.amazon.com/aws/
-52.95.227.0,52.95.228.255,Amazon AWS,http://www.amazon.com/aws/
+52.94.249.32,52.94.250.63,Amazon AWS,http://www.amazon.com/aws/
+52.95.224.0,52.95.230.255,Amazon AWS,http://www.amazon.com/aws/
+52.95.235.0,52.95.235.255,Amazon AWS,http://www.amazon.com/aws/
 52.95.239.0,52.95.255.159,Amazon AWS,http://www.amazon.com/aws/
 52.96.11.0,52.96.11.255,Microsoft Azure,http://www.windowsazure.com/en-us/
+52.101.0.0,52.101.7.255,Microsoft Azure,http://www.windowsazure.com/en-us/
+52.101.16.0,52.101.23.255,Microsoft Azure,http://www.windowsazure.com/en-us/
+52.102.128.0,52.102.129.255,Microsoft Azure,http://www.windowsazure.com/en-us/
+52.102.158.0,52.102.159.255,Microsoft Azure,http://www.windowsazure.com/en-us/
+52.103.0.0,52.103.3.255,Microsoft Azure,http://www.windowsazure.com/en-us/
+52.103.128.0,52.103.129.255,Microsoft Azure,http://www.windowsazure.com/en-us/
 52.108.0.0,52.108.7.255,Microsoft Azure,http://www.windowsazure.com/en-us/
-52.108.16.0,52.108.53.255,Microsoft Azure,http://www.windowsazure.com/en-us/
-52.108.56.0,52.108.63.255,Microsoft Azure,http://www.windowsazure.com/en-us/
-52.108.208.0,52.108.219.255,Microsoft Azure,http://www.windowsazure.com/en-us/
-52.108.222.0,52.109.99.255,Microsoft Azure,http://www.windowsazure.com/en-us/
-52.109.108.0,52.109.127.255,Microsoft Azure,http://www.windowsazure.com/en-us/
-52.109.132.0,52.109.143.255,Microsoft Azure,http://www.windowsazure.com/en-us/
-52.112.104.0,52.112.105.255,Microsoft Azure,http://www.windowsazure.com/en-us/
-52.112.108.0,52.112.109.255,Microsoft Azure,http://www.windowsazure.com/en-us/
-52.112.232.0,52.112.233.255,Microsoft Azure,http://www.windowsazure.com/en-us/
-52.112.236.0,52.112.237.255,Microsoft Azure,http://www.windowsazure.com/en-us/
-52.114.0.0,52.114.53.255,Microsoft Azure,http://www.windowsazure.com/en-us/
-52.114.56.0,52.114.57.255,Microsoft Azure,http://www.windowsazure.com/en-us/
+52.108.16.0,52.108.63.255,Microsoft Azure,http://www.windowsazure.com/en-us/
+52.108.68.0,52.108.113.255,Microsoft Azure,http://www.windowsazure.com/en-us/
+52.108.116.0,52.108.116.255,Microsoft Azure,http://www.windowsazure.com/en-us/
+52.108.137.0,52.108.138.255,Microsoft Azure,http://www.windowsazure.com/en-us/
+52.108.165.0,52.109.79.255,Microsoft Azure,http://www.windowsazure.com/en-us/
+52.109.86.0,52.109.105.255,Microsoft Azure,http://www.windowsazure.com/en-us/
+52.109.108.0,52.109.145.255,Microsoft Azure,http://www.windowsazure.com/en-us/
+52.109.150.0,52.109.153.255,Microsoft Azure,http://www.windowsazure.com/en-us/
+52.109.156.0,52.109.163.255,Microsoft Azure,http://www.windowsazure.com/en-us/
+52.111.194.0,52.111.194.255,Microsoft Azure,http://www.windowsazure.com/en-us/
+52.111.197.0,52.111.198.255,Microsoft Azure,http://www.windowsazure.com/en-us/
+52.111.202.0,52.111.206.255,Microsoft Azure,http://www.windowsazure.com/en-us/
+52.111.224.0,52.111.255.255,Microsoft Azure,http://www.windowsazure.com/en-us/
+52.112.14.0,52.112.15.255,Microsoft Azure,http://www.windowsazure.com/en-us/
+52.112.17.0,52.112.19.255,Microsoft Azure,http://www.windowsazure.com/en-us/
+52.112.24.0,52.112.31.255,Microsoft Azure,http://www.windowsazure.com/en-us/
+52.112.71.0,52.112.71.255,Microsoft Azure,http://www.windowsazure.com/en-us/
+52.112.76.0,52.112.79.255,Microsoft Azure,http://www.windowsazure.com/en-us/
+52.112.83.0,52.112.83.255,Microsoft Azure,http://www.windowsazure.com/en-us/
+52.112.97.0,52.112.99.255,Microsoft Azure,http://www.windowsazure.com/en-us/
+52.112.104.0,52.112.118.255,Microsoft Azure,http://www.windowsazure.com/en-us/
+52.112.144.0,52.112.159.255,Microsoft Azure,http://www.windowsazure.com/en-us/
+52.112.190.0,52.112.191.255,Microsoft Azure,http://www.windowsazure.com/en-us/
+52.112.197.0,52.112.197.255,Microsoft Azure,http://www.windowsazure.com/en-us/
+52.112.200.0,52.112.203.255,Microsoft Azure,http://www.windowsazure.com/en-us/
+52.112.216.0,52.112.223.255,Microsoft Azure,http://www.windowsazure.com/en-us/
+52.112.229.0,52.112.233.255,Microsoft Azure,http://www.windowsazure.com/en-us/
+52.112.236.0,52.112.238.255,Microsoft Azure,http://www.windowsazure.com/en-us/
+52.112.240.0,52.112.255.255,Microsoft Azure,http://www.windowsazure.com/en-us/
+52.113.9.0,52.113.9.255,Microsoft Azure,http://www.windowsazure.com/en-us/
+52.113.13.0,52.113.31.255,Microsoft Azure,http://www.windowsazure.com/en-us/
+52.113.37.0,52.113.37.255,Microsoft Azure,http://www.windowsazure.com/en-us/
+52.113.40.0,52.113.63.255,Microsoft Azure,http://www.windowsazure.com/en-us/
+52.113.72.0,52.113.79.255,Microsoft Azure,http://www.windowsazure.com/en-us/
+52.113.83.0,52.113.83.255,Microsoft Azure,http://www.windowsazure.com/en-us/
+52.113.88.0,52.113.91.255,Microsoft Azure,http://www.windowsazure.com/en-us/
+52.113.96.0,52.113.105.255,Microsoft Azure,http://www.windowsazure.com/en-us/
+52.113.108.0,52.113.134.255,Microsoft Azure,http://www.windowsazure.com/en-us/
+52.113.136.0,52.113.151.255,Microsoft Azure,http://www.windowsazure.com/en-us/
+52.113.160.0,52.113.193.255,Microsoft Azure,http://www.windowsazure.com/en-us/
+52.113.198.0,52.114.61.255,Microsoft Azure,http://www.windowsazure.com/en-us/
 52.114.64.0,52.114.111.255,Microsoft Azure,http://www.windowsazure.com/en-us/
 52.114.116.0,52.114.123.255,Microsoft Azure,http://www.windowsazure.com/en-us/
-52.114.128.0,52.114.171.255,Microsoft Azure,http://www.windowsazure.com/en-us/
-52.114.180.0,52.114.181.255,Microsoft Azure,http://www.windowsazure.com/en-us/
-52.114.184.0,52.114.185.255,Microsoft Azure,http://www.windowsazure.com/en-us/
-52.115.0.0,52.115.11.255,Microsoft Azure,http://www.windowsazure.com/en-us/
+52.114.128.0,52.114.187.255,Microsoft Azure,http://www.windowsazure.com/en-us/
+52.114.192.0,52.114.203.255,Microsoft Azure,http://www.windowsazure.com/en-us/
+52.114.216.0,52.114.219.255,Microsoft Azure,http://www.windowsazure.com/en-us/
+52.114.224.0,52.114.224.255,Microsoft Azure,http://www.windowsazure.com/en-us/
+52.114.226.0,52.114.226.255,Microsoft Azure,http://www.windowsazure.com/en-us/
+52.114.228.0,52.114.228.255,Microsoft Azure,http://www.windowsazure.com/en-us/
+52.114.230.0,52.114.234.255,Microsoft Azure,http://www.windowsazure.com/en-us/
+52.114.236.0,52.114.236.255,Microsoft Azure,http://www.windowsazure.com/en-us/
+52.114.238.0,52.114.238.255,Microsoft Azure,http://www.windowsazure.com/en-us/
+52.114.240.0,52.114.242.255,Microsoft Azure,http://www.windowsazure.com/en-us/
+52.114.244.0,52.114.244.255,Microsoft Azure,http://www.windowsazure.com/en-us/
+52.114.248.0,52.115.11.255,Microsoft Azure,http://www.windowsazure.com/en-us/
 52.115.16.0,52.115.27.255,Microsoft Azure,http://www.windowsazure.com/en-us/
-52.115.32.0,52.115.45.255,Microsoft Azure,http://www.windowsazure.com/en-us/
-52.115.48.0,52.115.53.255,Microsoft Azure,http://www.windowsazure.com/en-us/
-52.115.56.0,52.115.61.255,Microsoft Azure,http://www.windowsazure.com/en-us/
+52.115.32.0,52.115.91.255,Microsoft Azure,http://www.windowsazure.com/en-us/
+52.115.96.0,52.115.105.255,Microsoft Azure,http://www.windowsazure.com/en-us/
+52.115.128.0,52.115.223.255,Microsoft Azure,http://www.windowsazure.com/en-us/
 52.119.205.0,52.119.205.255,Amazon AWS,http://www.amazon.com/aws/
+52.120.0.0,52.121.7.255,Microsoft Azure,http://www.windowsazure.com/en-us/
+52.121.16.0,52.121.85.255,Microsoft Azure,http://www.windowsazure.com/en-us/
+52.121.88.0,52.121.111.255,Microsoft Azure,http://www.windowsazure.com/en-us/
+52.121.116.0,52.121.121.255,Microsoft Azure,http://www.windowsazure.com/en-us/
 52.125.128.0,52.125.141.255,Microsoft Azure,http://www.windowsazure.com/en-us/
-52.136.0.0,52.143.201.255,Microsoft Azure,http://www.windowsazure.com/en-us/
-52.143.207.0,52.143.219.255,Microsoft Azure,http://www.windowsazure.com/en-us/
-52.143.224.0,52.143.255.255,Microsoft Azure,http://www.windowsazure.com/en-us/
-52.146.0.0,52.165.48.15,Microsoft Azure,http://www.windowsazure.com/en-us/
+52.129.114.0,52.129.114.255,LightEdge,https://www.lightedge.com/
+52.136.0.0,52.143.219.255,Microsoft Azure,http://www.windowsazure.com/en-us/
+52.143.221.0,52.143.255.255,Microsoft Azure,http://www.windowsazure.com/en-us/
+52.146.0.0,52.159.95.255,Microsoft Azure,http://www.windowsazure.com/en-us/
+52.159.128.0,52.165.48.15,Microsoft Azure,http://www.windowsazure.com/en-us/
 52.165.49.0,52.165.49.255,Microsoft Azure,http://www.windowsazure.com/en-us/
 52.165.56.0,52.165.104.191,Microsoft Azure,http://www.windowsazure.com/en-us/
 52.165.128.0,52.176.167.255,Microsoft Azure,http://www.windowsazure.com/en-us/
-52.176.176.0,52.176.224.111,Microsoft Azure,http://www.windowsazure.com/en-us/
-52.176.225.0,52.176.225.255,Microsoft Azure,http://www.windowsazure.com/en-us/
+52.176.176.0,52.176.225.255,Microsoft Azure,http://www.windowsazure.com/en-us/
 52.176.232.0,52.180.184.47,Microsoft Azure,http://www.windowsazure.com/en-us/
 52.180.185.0,52.180.185.255,Microsoft Azure,http://www.windowsazure.com/en-us/
 52.182.128.0,52.184.168.47,Microsoft Azure,http://www.windowsazure.com/en-us/
 52.184.168.80,52.184.168.143,Microsoft Azure,http://www.windowsazure.com/en-us/
 52.184.169.0,52.184.170.255,Microsoft Azure,http://www.windowsazure.com/en-us/
 52.184.176.0,52.185.56.175,Microsoft Azure,http://www.windowsazure.com/en-us/
-52.185.64.0,52.185.80.63,Microsoft Azure,http://www.windowsazure.com/en-us/
-52.185.81.0,52.185.81.255,Microsoft Azure,http://www.windowsazure.com/en-us/
-52.185.88.0,52.185.112.127,Microsoft Azure,http://www.windowsazure.com/en-us/
-52.185.120.0,52.191.104.31,Microsoft Azure,http://www.windowsazure.com/en-us/
-52.191.105.0,52.191.106.255,Microsoft Azure,http://www.windowsazure.com/en-us/
-52.191.112.0,52.191.255.255,Microsoft Azure,http://www.windowsazure.com/en-us/
+52.185.64.0,52.185.112.127,Microsoft Azure,http://www.windowsazure.com/en-us/
+52.185.120.0,52.191.255.255,Microsoft Azure,http://www.windowsazure.com/en-us/
 52.192.0.0,52.215.255.255,Amazon AWS,http://www.amazon.com/aws/
 52.220.0.0,52.222.127.255,Amazon AWS,http://www.amazon.com/aws/
 52.224.0.0,52.225.136.79,Microsoft Azure,http://www.windowsazure.com/en-us/
@@ -594,9 +832,7 @@
 52.239.185.32,52.239.185.95,Microsoft Azure,http://www.windowsazure.com/en-us/
 52.239.186.0,52.239.190.255,Microsoft Azure,http://www.windowsazure.com/en-us/
 52.239.192.0,52.239.207.47,Microsoft Azure,http://www.windowsazure.com/en-us/
-52.239.207.64,52.239.231.255,Microsoft Azure,http://www.windowsazure.com/en-us/
-52.239.234.0,52.239.249.255,Microsoft Azure,http://www.windowsazure.com/en-us/
-52.239.252.0,52.242.255.255,Microsoft Azure,http://www.windowsazure.com/en-us/
+52.239.207.64,52.242.255.255,Microsoft Azure,http://www.windowsazure.com/en-us/
 52.243.32.0,52.243.127.255,Microsoft Azure,http://www.windowsazure.com/en-us/
 52.245.8.0,52.245.46.143,Microsoft Azure,http://www.windowsazure.com/en-us/
 52.245.46.160,52.245.69.111,Microsoft Azure,http://www.windowsazure.com/en-us/
@@ -604,18 +840,31 @@
 52.246.0.0,52.246.143.255,Microsoft Azure,http://www.windowsazure.com/en-us/
 52.246.152.0,52.247.127.255,Microsoft Azure,http://www.windowsazure.com/en-us/
 52.247.192.0,52.249.95.255,Microsoft Azure,http://www.windowsazure.com/en-us/
-52.249.128.0,52.253.143.255,Microsoft Azure,http://www.windowsazure.com/en-us/
-52.253.148.0,52.253.161.255,Microsoft Azure,http://www.windowsazure.com/en-us/
+52.249.128.0,52.251.127.255,Microsoft Azure,http://www.windowsazure.com/en-us/
+52.252.0.0,52.253.143.255,Microsoft Azure,http://www.windowsazure.com/en-us/
+52.253.148.0,52.253.163.255,Microsoft Azure,http://www.windowsazure.com/en-us/
+52.253.165.0,52.253.181.255,Microsoft Azure,http://www.windowsazure.com/en-us/
+52.253.185.0,52.253.186.255,Microsoft Azure,http://www.windowsazure.com/en-us/
+52.253.191.0,52.253.191.255,Microsoft Azure,http://www.windowsazure.com/en-us/
+52.253.196.0,52.253.197.255,Microsoft Azure,http://www.windowsazure.com/en-us/
 52.253.224.0,52.253.239.255,Microsoft Azure,http://www.windowsazure.com/en-us/
 52.254.0.0,52.255.255.255,Microsoft Azure,http://www.windowsazure.com/en-us/
+54.39.0.0,54.39.255.255,OVH,https://www.ovh.com/ca/en/
 54.64.0.0,54.95.255.255,Amazon AWS,http://www.amazon.com/aws/
 54.144.0.0,54.181.255.255,Amazon AWS,http://www.amazon.com/aws/
 54.183.0.0,54.191.255.255,Amazon AWS,http://www.amazon.com/aws/
 54.193.0.0,54.221.255.255,Amazon AWS,http://www.amazon.com/aws/
 54.222.32.0,54.222.39.255,Amazon AWS,http://www.amazon.com/aws/
+54.222.52.0,54.222.55.255,Amazon AWS,http://www.amazon.com/aws/
+54.222.58.32,54.222.58.47,Amazon AWS,http://www.amazon.com/aws/
+54.222.59.0,54.222.59.255,Amazon AWS,http://www.amazon.com/aws/
+54.222.64.0,54.222.65.255,Amazon AWS,http://www.amazon.com/aws/
+54.222.88.0,54.222.89.255,Amazon AWS,http://www.amazon.com/aws/
 54.222.128.0,54.229.255.255,Amazon AWS,http://www.amazon.com/aws/
 54.232.0.0,54.238.255.255,Amazon AWS,http://www.amazon.com/aws/
+54.239.103.128,54.239.103.191,Amazon AWS,http://www.amazon.com/aws/
 54.241.0.0,54.255.255.255,Amazon AWS,http://www.amazon.com/aws/
+57.180.0.0,57.183.255.255,Amazon AWS,http://www.amazon.com/aws/
 58.64.185.0,58.64.185.255,NWT iDC Data Service,http://www.newworldtel.com/
 59.151.0.0,59.151.127.255,21vianet,http://21vianet.com/
 59.151.128.0,59.151.191.255,Akamai,http://akamai.com/
@@ -643,11 +892,12 @@
 63.140.0.0,63.140.15.255,Fortress Integrated Technologies,http://fortressitx.com/
 63.141.224.0,63.141.255.255,Data Shack,http://datashack.net/
 63.143.32.0,63.143.63.255,Limestone Networks,http://www.limestonenetworks.com/
+63.224.248.123,63.224.248.123,unknown,unknown
 63.246.0.0,63.246.31.255,Xiolink,http://xiolink.com
+63.246.112.0,63.246.113.255,Amazon AWS,http://www.amazon.com/aws/
+63.246.119.0,63.246.119.255,Amazon AWS,http://www.amazon.com/aws/
 63.249.128.0,63.249.255.255,C I Host,http://www.cihost.com/
 64.4.8.0,64.4.8.255,Microsoft Azure,http://www.windowsazure.com/en-us/
-64.4.22.128,64.4.22.255,Microsoft Azure,http://www.windowsazure.com/en-us/
-64.4.50.128,64.4.50.255,Microsoft Azure,http://www.windowsazure.com/en-us/
 64.4.54.0,64.4.54.255,Microsoft Azure,http://www.windowsazure.com/en-us/
 64.5.32.0,64.5.63.255,"ThePlanet.com Internet Services, Inc.",http://theplanet.com
 64.6.96.0,64.6.111.255,amerinoc,https://www.amerinoc.com/
@@ -679,11 +929,13 @@
 64.59.64.0,64.59.127.255,MojoHost,http://www.mojohost.com
 64.62.128.0,64.62.255.255,Hurricane Electric,http://www.he.net/
 64.64.0.0,64.64.31.255,ServInt,http://www.servint.net/
+64.64.96.0,64.64.127.255,LogicWeb,https://www.logicweb.com/
 64.64.224.0,64.64.255.255,Carat Networks,http://www.caratnetworks.com/
 64.65.0.0,64.65.63.255,PEER 1,http://www.peer1.com/
 64.66.128.0,64.66.191.255,Hostway,http://www.hostway.com/
 64.69.32.0,64.69.47.255,calPOP,http://calpop.com/
 64.69.64.0,64.69.95.255,PEER 1,http://www.peer1.com/
+64.71.32.0,64.71.63.255,Hostway,https://hostway.com/
 64.71.128.0,64.71.191.255,Hurricane Electric,http://www.he.net/
 64.71.224.0,64.71.239.255,Webhosting.net,http://www.webhosting.net/
 64.77.0.0,64.77.127.255,PEER 1,http://www.peer1.com/
@@ -714,7 +966,9 @@
 64.179.224.0,64.179.239.255,LightEdge,http://www.lightedge.com
 64.182.0.0,64.182.255.255,C I Host,http://www.cihost.com/
 64.187.96.0,64.187.127.255,AccelerateBiz Inc.,http://www.acceleratebiz.com/
+64.187.128.0,64.187.143.255,Amazon AWS,http://www.amazon.com/aws/
 64.191.0.0,64.191.127.255,hostnoc,http://www.hostnoc.net/
+64.201.171.0,64.201.171.127,SWD,https://www.swd.ca/
 64.202.96.0,64.202.127.255,ServerCentral,http://www.servercentral.net/
 64.202.160.0,64.202.191.255,GoDaddy.com Inc,http://www.godaddy.com/
 64.203.96.0,64.203.111.255,Airnet Group,http://smartechcorp.net/
@@ -727,6 +981,9 @@
 64.246.0.0,64.246.63.255,"ThePlanet.com Internet Services, Inc.",http://theplanet.com
 64.247.192.0,64.247.223.255,LightEdge,http://www.lightedge.com
 64.251.0.0,64.251.31.255,ServerPronto,http://www.serverpronto.com/
+64.252.64.0,64.252.89.255,Amazon AWS,http://www.amazon.com/aws/
+64.252.98.0,64.252.124.255,Amazon AWS,http://www.amazon.com/aws/
+65.0.0.0,65.3.255.255,Amazon AWS,http://www.amazon.com/aws/
 65.17.192.0,65.17.255.255,Datapipe,http://www.datapipe.com/
 65.19.128.0,65.19.191.255,Hurricane Electric,http://www.he.net/
 65.36.128.0,65.36.255.255,HostMySite.com,http://www.webmysite.com/
@@ -736,30 +993,33 @@
 65.52.0.0,65.52.39.255,Microsoft Azure,http://www.windowsazure.com/en-us/
 65.52.48.0,65.52.79.255,Microsoft Azure,http://www.windowsazure.com/en-us/
 65.52.104.0,65.52.104.255,Microsoft Azure,http://www.windowsazure.com/en-us/
-65.52.106.16,65.52.106.159,Microsoft Azure,http://www.windowsazure.com/en-us/
-65.52.108.0,65.52.247.255,Microsoft Azure,http://www.windowsazure.com/en-us/
+65.52.106.0,65.52.106.255,Microsoft Azure,http://www.windowsazure.com/en-us/
+65.52.108.0,65.52.255.255,Microsoft Azure,http://www.windowsazure.com/en-us/
 65.54.19.128,65.54.19.159,Microsoft Azure,http://www.windowsazure.com/en-us/
 65.54.55.160,65.54.55.191,Microsoft Azure,http://www.windowsazure.com/en-us/
 65.54.55.224,65.54.55.255,Microsoft Azure,http://www.windowsazure.com/en-us/
-65.54.247.128,65.54.247.255,Microsoft Azure,http://www.windowsazure.com/en-us/
-65.55.2.0,65.55.2.255,Microsoft Azure,http://www.windowsazure.com/en-us/
-65.55.4.0,65.55.4.255,Microsoft Azure,http://www.windowsazure.com/en-us/
-65.55.25.128,65.55.25.255,Microsoft Azure,http://www.windowsazure.com/en-us/
 65.55.32.128,65.55.32.143,Microsoft Azure,http://www.windowsazure.com/en-us/
 65.55.32.192,65.55.32.239,Microsoft Azure,http://www.windowsazure.com/en-us/
 65.55.33.176,65.55.33.207,Microsoft Azure,http://www.windowsazure.com/en-us/
 65.55.35.192,65.55.35.223,Microsoft Azure,http://www.windowsazure.com/en-us/
 65.55.44.8,65.55.44.159,Microsoft Azure,http://www.windowsazure.com/en-us/
 65.55.51.0,65.55.51.255,Microsoft Azure,http://www.windowsazure.com/en-us/
-65.55.54.128,65.55.54.255,Microsoft Azure,http://www.windowsazure.com/en-us/
-65.55.60.128,65.55.60.171,Microsoft Azure,http://www.windowsazure.com/en-us/
 65.55.60.176,65.55.60.183,Microsoft Azure,http://www.windowsazure.com/en-us/
 65.55.60.188,65.55.60.191,Microsoft Azure,http://www.windowsazure.com/en-us/
-65.55.105.0,65.55.110.255,Microsoft Azure,http://www.windowsazure.com/en-us/
+65.55.105.0,65.55.105.63,Microsoft Azure,http://www.windowsazure.com/en-us/
+65.55.105.96,65.55.105.127,Microsoft Azure,http://www.windowsazure.com/en-us/
+65.55.105.160,65.55.106.95,Microsoft Azure,http://www.windowsazure.com/en-us/
+65.55.106.128,65.55.107.15,Microsoft Azure,http://www.windowsazure.com/en-us/
+65.55.107.48,65.55.107.127,Microsoft Azure,http://www.windowsazure.com/en-us/
+65.55.108.0,65.55.110.255,Microsoft Azure,http://www.windowsazure.com/en-us/
 65.55.120.0,65.55.120.255,Microsoft Azure,http://www.windowsazure.com/en-us/
 65.55.144.0,65.55.146.255,Microsoft Azure,http://www.windowsazure.com/en-us/
-65.55.189.128,65.55.189.255,Microsoft Azure,http://www.windowsazure.com/en-us/
-65.55.207.0,65.55.219.255,Microsoft Azure,http://www.windowsazure.com/en-us/
+65.55.207.0,65.55.207.255,Microsoft Azure,http://www.windowsazure.com/en-us/
+65.55.209.0,65.55.211.63,Microsoft Azure,http://www.windowsazure.com/en-us/
+65.55.212.0,65.55.212.31,Microsoft Azure,http://www.windowsazure.com/en-us/
+65.55.212.128,65.55.213.31,Microsoft Azure,http://www.windowsazure.com/en-us/
+65.55.213.64,65.55.213.191,Microsoft Azure,http://www.windowsazure.com/en-us/
+65.55.217.0,65.55.219.255,Microsoft Azure,http://www.windowsazure.com/en-us/
 65.55.250.0,65.55.250.255,Microsoft Azure,http://www.windowsazure.com/en-us/
 65.55.252.0,65.55.252.255,Microsoft Azure,http://www.windowsazure.com/en-us/
 65.60.0.0,65.60.63.255,SingleHop,http://www.singlehop.com/
@@ -767,12 +1027,16 @@
 65.98.0.0,65.98.127.255,Fortress Integrated Technologies,http://fortressitx.com/
 65.99.192.0,65.99.255.255,colo4dallas.com,http://colo4dallas.com/
 65.111.160.0,65.111.191.255,ServerPronto,http://www.serverpronto.com/
+65.154.226.165,65.154.226.165,unknown,unknown
+65.155.30.101,65.155.30.101,unknown,unknown
+65.175.64.0,65.175.127.255,Cybercon,https://www.cybercon.com/
 65.181.128.0,65.181.191.255,Pair Networks,http://www.pair.com/
 65.182.96.0,65.182.111.255,brinkster,http://brinkster.com/
 65.182.192.0,65.182.223.255,HostMySite.com,http://www.webmysite.com/
 65.254.208.0,65.254.223.255,Peak10,http://www.peak10.com/
 65.254.224.0,65.254.255.255,The Endurance International Group Inc,http://www.enduranceinternational.com/
 65.255.32.0,65.255.47.255,Zenlayer,http://www.zenlayer.com/
+65.255.202.164,65.255.202.167,Pathmatics,https://www.pathmatics.com/
 66.6.96.0,66.6.127.255,LightEdge,http://www.lightedge.com
 66.7.192.0,66.7.223.255,DimeNOC,http://dimenoc.com/
 66.11.144.0,66.11.159.255,Canada Web Hosting,http://www.canadawebhosting.com/
@@ -817,6 +1081,7 @@
 66.160.128.0,66.160.207.255,Hurricane Electric,http://www.he.net/
 66.165.128.0,66.165.159.255,ActiveHost,http://www.activehost.com/
 66.172.0.0,66.172.63.255,Cyberverse,http://www.cyberverse.com/
+66.180.160.0,66.180.175.255,netsonic,https://www.netsonic.net/
 66.180.192.0,66.180.207.255,Cyberverse,http://www.cyberverse.com/
 66.197.128.0,66.197.255.255,hostnoc,http://www.hostnoc.net/
 66.199.128.0,66.199.191.255,PEER 1,http://www.peer1.com/
@@ -856,6 +1121,7 @@
 67.20.64.0,67.20.127.255,Bluehost.com,http://www.bluehost.com/
 67.21.64.0,67.21.95.255,SharkTECH Internet Services,http://sharktech.net/
 67.22.96.0,67.22.111.255,Canada Web Hosting,http://www.canadawebhosting.com/
+67.22.128.0,67.22.143.255,Cologlobal,https://www.cologlobal.com/
 67.23.0.0,67.23.47.255,Rackspace,http://www.rackspace.com/
 67.23.160.0,67.23.191.255,netriplex,http://www.netriplex.com/
 67.23.224.0,67.23.255.255,DimeNOC,http://dimenoc.com/
@@ -895,6 +1161,7 @@
 67.217.48.0,67.217.63.255,Host Department LLC,http://www.hostdepartment.com/
 67.217.160.0,67.217.191.255,latisys,http://www.latisys.com/
 67.219.96.0,67.219.127.255,Razor,http://www.razorservers.com/
+67.219.150.0,67.219.150.255,CPG Ventures LLC,http://www.cpgventures.com/
 67.220.64.0,67.220.95.255,awknet,http://awknet.com/
 67.220.192.0,67.220.223.255,WebNX Internet Services,http://webnx.com/
 67.221.32.0,67.221.63.255,Peak Web Hosting,http://www.peakwebhosting.com/
@@ -914,6 +1181,8 @@
 67.231.240.0,67.231.255.255,Turnkey Internet,http://turnkeyinternet.net/
 68.64.32.0,68.64.47.255,Peak10,http://www.peak10.com/
 68.65.192.0,68.65.255.255,ColoStore,http://colostore.com/
+68.66.112.0,68.66.127.255,Amazon AWS,http://www.amazon.com/aws/
+68.66.192.0,68.66.255.255,A2 Hosting,https://www.a2hosting.com/
 68.67.64.0,68.67.79.255,gorack.net,http://gorack.net/
 68.68.16.0,68.68.31.255,Blue Mile,http://bluemilecloud.com/
 68.68.32.0,68.68.47.255,Reliable Hosting,http://reliablehosting.com/
@@ -922,6 +1191,7 @@
 68.71.32.0,68.71.63.255,Netelligent,http://www.netelligent.ca/en/ca
 68.71.96.0,68.71.111.255,Peak10,http://www.peak10.com/
 68.71.128.0,68.71.159.255,wehostwebsites.com,http://wehostwebsites.com/
+68.79.0.0,68.79.63.255,Amazon AWS,http://www.amazon.com/aws/
 68.142.64.0,68.142.127.255,Limelight Networks Inc,http://www.limelight.com/
 68.142.176.0,68.142.191.255,Peak10,http://www.peak10.com/
 68.168.96.0,68.168.111.255,Codero,http://www.codero.com/
@@ -959,6 +1229,7 @@
 69.39.224.0,69.39.239.255,gigeNET,http://www.gigenet.com/
 69.41.160.0,69.41.191.255,1-800-Hosting,http://www.800hosting.com/
 69.41.224.0,69.41.255.255,"ThePlanet.com Internet Services, Inc.",http://theplanet.com
+69.42.48.0,69.42.63.255,cologlobal,https://www.cologlobal.com/
 69.42.64.0,69.42.95.255,Webair Internet Development Inc,http://www.webair.com/
 69.42.208.0,69.42.223.255,awknet,http://awknet.com/
 69.46.64.0,69.46.95.255,EGIHosting.com,http://www.egihosting.com/
@@ -980,6 +1251,7 @@
 69.89.224.0,69.89.239.255,ActiveHost,http://www.activehost.com/
 69.90.0.0,69.90.255.255,PEER 1,http://www.peer1.com/
 69.93.0.0,69.93.255.255,"ThePlanet.com Internet Services, Inc.",http://theplanet.com
+69.94.128.0,69.94.159.255,Lanset America Corporation,https://www.lanset.com/
 69.147.224.0,69.147.255.255,Ubiquity Server Solutions,http://www.ubiquityservers.com/
 69.162.64.0,69.162.127.255,Limestone Networks,http://www.limestonenetworks.com/
 69.162.128.0,69.162.191.255,steadfast.net,http://steadfast.net/
@@ -1008,12 +1280,17 @@
 69.195.128.0,69.195.159.255,Joe's Datacenter,http://www.joesdatacenter.com/
 69.197.0.0,69.197.63.255,Staminus Communications,http://staminus.net/
 69.197.128.0,69.197.191.255,WholeSale Internet Inc,http://www.wholesaleinternet.com/
+69.230.192.0,69.230.255.255,Amazon AWS,http://www.amazon.com/aws/
+69.231.128.0,69.231.191.255,Amazon AWS,http://www.amazon.com/aws/
+69.234.192.0,69.234.255.255,Amazon AWS,http://www.amazon.com/aws/
+69.235.128.0,69.235.191.255,Amazon AWS,http://www.amazon.com/aws/
 70.32.32.0,70.32.47.255,Ubiquity Server Solutions,http://www.ubiquityservers.com/
 70.32.64.0,70.32.127.255,Media Temple,http://www.mediatemple.net/
 70.33.192.0,70.33.255.255,PEER 1,http://www.peer1.com/
 70.34.96.0,70.34.111.255,4rweb.com,http://4rweb.com/
 70.34.192.0,70.34.255.255,Razor,http://www.razorservers.com/
 70.35.192.0,70.35.207.255,Fasthosts Internet Ltd,http://www.fasthosts.co.uk/
+70.36.32.0,70.36.47.255,Zimcom,https://www.zimcom.net/
 70.36.96.0,70.36.127.255,Perfect IP,http://www.perfectip.net/
 70.37.0.0,70.37.11.255,Microsoft Azure,http://www.windowsazure.com/en-us/
 70.37.16.0,70.37.127.255,Microsoft Azure,http://www.windowsazure.com/en-us/
@@ -1022,7 +1299,16 @@
 70.39.64.0,70.39.127.255,SharkTECH Internet Services,http://sharktech.net/
 70.40.192.0,70.40.223.255,Bluehost.com,http://www.bluehost.com/
 70.84.0.0,70.87.255.255,"ThePlanet.com Internet Services, Inc.",http://theplanet.com
+70.224.192.0,70.224.255.255,Amazon AWS,http://www.amazon.com/aws/
+70.232.86.124,70.232.86.126,Amazon AWS,http://www.amazon.com/aws/
+70.232.92.0,70.232.95.255,Amazon AWS,http://www.amazon.com/aws/
+70.232.124.0,70.232.127.255,Amazon AWS,http://www.amazon.com/aws/
 71.6.128.0,71.6.255.255,cari.net,http://cari.net/
+71.131.192.0,71.132.63.255,Amazon AWS,http://www.amazon.com/aws/
+71.136.64.0,71.136.127.255,Amazon AWS,http://www.amazon.com/aws/
+71.137.0.0,71.137.63.255,Amazon AWS,http://www.amazon.com/aws/
+71.141.0.0,71.141.15.255,Amazon AWS,http://www.amazon.com/aws/
+71.163.17.92,71.163.17.92,unknown,unknown
 72.1.96.0,72.1.127.255,latisys,http://www.latisys.com/
 72.1.240.0,72.1.255.255,ndchost.com,http://www.ndchost.com/
 72.3.128.0,72.3.255.255,Rackspace,http://www.rackspace.com/
@@ -1039,6 +1325,7 @@
 72.18.192.0,72.18.207.255,Premia Networks Corporation,http://www.premianet.com/
 72.20.0.0,72.20.63.255,Staminus Communications,http://staminus.net/
 72.21.32.0,72.21.63.255,Layered Technologies Inc,http://www.layeredtech.com/
+72.21.198.64,72.21.198.71,AWS,http://www.amazon.com/aws/
 72.22.66.0,72.22.67.255,The Endurance International Group Inc,http://www.enduranceinternational.com/
 72.22.69.0,72.22.73.255,The Endurance International Group Inc,http://www.enduranceinternational.com/
 72.22.75.0,72.22.76.255,The Endurance International Group Inc,http://www.enduranceinternational.com/
@@ -1051,15 +1338,19 @@
 72.34.32.0,72.34.63.255,ihnetworks.net,http://ihnetworks.net/
 72.35.64.0,72.35.95.255,Peak10,http://www.peak10.com/
 72.36.128.0,72.36.255.255,Layered Technologies Inc,http://www.layeredtech.com/
+72.41.0.0,72.41.15.255,Amazon AWS,http://www.amazon.com/aws/
 72.44.32.0,72.44.63.255,Amazon AWS,http://www.amazon.com/aws/
 72.44.64.0,72.44.79.255,multacom.com,http://multacom.com/
 72.44.80.0,72.44.95.255,Future Hosting Inc,http://vpsdatacenter.com/
 72.46.128.0,72.46.159.255,VersaWeb,http://www.versaweb.com/
 72.47.192.0,72.47.255.255,Media Temple,http://www.mediatemple.net/
+72.48.241.166,72.48.241.166,unknown,unknown
 72.51.0.0,72.51.63.255,PEER 1,http://www.peer1.com/
 72.52.64.0,72.52.127.255,Hurricane Electric,http://www.he.net/
 72.52.128.0,72.52.255.255,Liquid Web,http://www.liquidweb.com/
 72.55.128.0,72.55.191.255,iWeb Technologies Inc.,http://iweb.com/
+72.137.165.198,72.137.165.198,unknown,unknown
+72.139.82.126,72.139.82.126,unknown,unknown
 72.167.0.0,72.167.255.255,GoDaddy.com Inc,http://www.godaddy.com/
 72.172.128.0,72.172.143.255,Jumpline Inc,http://www.jumpline.com/
 72.232.0.0,72.233.127.255,Layered Technologies Inc,http://www.layeredtech.com/
@@ -1084,6 +1375,7 @@
 74.84.192.0,74.84.223.255,Peak10,http://www.peak10.com/
 74.86.0.0,74.86.255.255,SoftLayer,http://www.softlayer.com/
 74.91.16.0,74.91.31.255,Data Shack,http://datashack.net/
+74.94.95.5,74.94.95.5,unknown,unknown
 74.112.248.0,74.112.255.255,Triple8 Network,http://888.net/
 74.115.48.0,74.115.51.255,Weebly,http://www.weebly.com/
 74.116.248.0,74.116.251.255,Applied Operations,http://www.appliedops.net/
@@ -1093,6 +1385,7 @@
 74.117.208.0,74.117.211.255,Sprocket Networks,http://www.sprocketnetworks.com/
 74.117.236.0,74.117.239.255,Continuum Data Centers,http://www.continuumdatacenters.com/
 74.118.36.0,74.118.39.255,SevenL Networks Inc,https://www.sevenl.net/
+74.118.136.0,74.118.143.255,TeraSwitch Networks Inc,https://teraswitch.com/
 74.118.192.0,74.118.195.255,Volume Drive,http://volumedrive.com
 74.119.144.0,74.119.147.255,colo@,http://coloat.com/
 74.119.216.0,74.119.219.255,Continuum Data Centers,http://www.continuumdatacenters.com/
@@ -1124,6 +1417,7 @@
 75.126.0.0,75.126.255.255,SoftLayer,http://www.softlayer.com/
 75.127.0.0,75.127.15.255,ColoCrossing,http://www.colocrossing.com/
 76.8.16.0,76.8.31.255,Cyberverse,http://www.cyberverse.com/
+76.8.60.0,76.8.60.255,LaunchVPS,https://launchvps.com/
 76.10.192.0,76.10.223.255,Blue Mile,http://bluemilecloud.com/
 76.12.0.0,76.12.255.255,HostMySite.com,http://www.webmysite.com/
 76.72.160.0,76.72.175.255,Database By Design,http://www.databasebydesignllc.com/
@@ -1146,6 +1440,7 @@
 77.87.248.0,77.87.255.255,ConnectingBytse Gbmh,http://www.connectingbytes.de/
 77.91.224.0,77.91.231.255,Webalta,http://www.wahome.ru/
 77.92.64.0,77.92.95.255,UK2 Group,http://www.uk2.net/
+77.92.158.0,77.92.158.255,SH,https://www.sh.com.tr/
 77.93.192.0,77.93.223.255,Master Internet S.R.O.,http://www.master.cz/
 77.94.240.0,77.94.247.255,Global-e Datacenter B.V.,http://www.global-datacenter.nl
 77.95.224.0,77.95.231.255,Snel Internet Services B.V.,https://www.snelserver.com/
@@ -1261,7 +1556,9 @@
 81.176.224.0,81.176.225.255,eserver.ru,http://www.eserver.ru/
 81.177.26.0,81.177.27.255,erix-colo,http://
 81.177.32.0,81.177.33.255,1gb,https://www.1gb.ru/
+81.177.135.0,81.177.135.255,Jino,https://jino.ru/
 82.98.128.0,82.98.191.255,dinahosting,https://en.dinahosting.com/
+82.102.19.0,82.102.19.255,M247,http://m247.ro/
 82.103.128.0,82.103.191.255,easyspeedy,http://easyspeedy.com/
 82.113.128.0,82.113.159.255,Xtraordinary Networks Limited,http://xtrahost.co.uk/
 82.139.64.0,82.139.127.255,prolocation.net,http://prolocation.net/
@@ -1313,6 +1610,8 @@
 85.25.0.0,85.25.255.255,plusserver.de,http://plusserver.de/
 85.31.101.0,85.31.101.255,NANO IT,https://www.nano.lv/
 85.31.184.0,85.31.191.255,ISPpro Germany,http://isppro.de/
+85.92.152.0,85.92.152.255,Webair,https://www.webair.com/
+85.92.159.0,85.92.159.255,Webair,https://www.webair.com/
 85.94.192.0,85.94.223.255,seeweb.it,http://seeweb.it/
 85.119.104.0,85.119.104.31,prolocation.net,http://prolocation.net/
 85.119.104.64,85.119.105.23,prolocation.net,http://prolocation.net/
@@ -1396,6 +1695,7 @@
 89.207.168.0,89.207.175.255,Switch Media Ltd,http://www.switchmedia.co.uk/
 89.221.39.128,89.221.39.255,Akamai,http://akamai.com/
 89.221.240.0,89.221.255.255,FSdata,http://fsdata.se/
+89.223.24.0,89.223.31.255,SimpleCloud,https://simplecloud.ru/
 89.234.0.0,89.234.63.255,Rackspace,http://www.rackspace.com/
 89.248.160.0,89.248.160.127,Ecatel,http://ecatel.net/
 89.248.166.0,89.248.166.127,Ecatel,http://ecatel.net/
@@ -1408,6 +1708,7 @@
 91.105.232.0,91.105.239.255,H1 Host,https://www.h1host.ru/
 91.109.240.0,91.109.247.255,UK2,https://www.uk2.net/
 91.121.0.0,91.121.255.255,OVH,http://www.ovh.co.uk/
+91.134.248.0,91.134.248.255,OVH,https://www.ovh.ie/
 91.143.80.0,91.143.95.255,ISPpro Germany,http://isppro.de/
 91.184.0.0,91.184.31.255,hostnet.nl,http://www.hostnet.nl/
 91.186.0.0,91.186.31.255,BlueConnex,http://www.simplytransit.net/
@@ -1440,6 +1741,7 @@
 91.204.208.0,91.204.211.255,racksrv,http://www.racksrv.com/
 91.205.60.0,91.205.63.255,PatrikWeb,http://patrikweb.net/
 91.205.172.0,91.205.175.255,Giga-Hosting GmbH,http://giga-hosting.biz/
+91.206.30.0,91.206.31.255,Freehost,https://freehost.com.ua/
 91.206.200.0,91.206.201.255,Delta-X,http://www.delta-x.ua/
 91.206.226.0,91.206.227.255,Tangram Ukraine,http://tangram.ua/eng/index.html
 91.207.4.0,91.207.9.255,Steep Host,http://www.steephost.com/
@@ -1477,6 +1779,7 @@
 91.229.174.0,91.229.175.255,CCPG Solutions,http://ccpg.co.uk/
 91.229.248.0,91.229.248.255,EpioHost,http://epiohost.net/
 91.232.96.0,91.232.97.255,Xirra GmbH,http://http://www.xirra.net/
+91.233.116.0,91.233.116.255,Oy Creanova Hosting Solutions Ltd,https://creanova.org/
 91.233.249.0,91.233.249.255,Voxility,https://www.voxility.com/
 91.234.22.0,91.234.22.255,T-N Media,http://t-n-media.de/
 91.237.52.0,91.237.52.255,Biznes-Host.pl,http://biznes-host.pl/
@@ -1504,6 +1807,9 @@
 92.114.96.0,92.114.97.255,simpliq.com,http://www.simpliq.com/
 92.114.98.0,92.114.98.255,Elvsoft,http://www.elvsoft.com/
 92.122.0.0,92.123.255.255,Akamai,http://akamai.com/
+92.222.64.0,92.222.95.255,OVH FR,https://www.ovh.ie/
+92.223.0.0,92.223.127.255,G-Core Labs,https://gcorelabs.com/
+92.240.253.0,92.240.253.255,LightStorm,http://www.lightstorm.sk
 92.241.160.0,92.241.191.255,Webalta,http://www.wahome.ru/
 92.243.0.0,92.243.7.255,Gandi.net,http://www.gandi.net/
 93.88.74.0,93.88.74.255,Eurohoster,https://eurohoster.org/
@@ -1536,7 +1842,7 @@
 94.16.112.0,94.16.115.255,Netcup,https://www.netcup.de/
 94.23.0.0,94.23.255.255,OVH,http://www.ovh.co.uk/
 94.24.0.0,94.24.127.255,xservers.ro,http://www.xservers.ro/
-94.73.147.0,94.73.147.255,Natro,https://www.natro.com/
+94.73.146.0,94.73.147.255,Natro,https://www.natro.com/
 94.73.150.0,94.73.150.255,Natro,https://www.natro.com/
 94.75.192.0,94.75.255.255,Leaseweb,http://www.leaseweb.com/
 94.76.128.0,94.76.191.255,ServiHosting Networks S.L.,http://servihosting.es
@@ -1600,9 +1906,11 @@
 95.130.8.0,95.130.15.255,DigiCube,http://digicube.fr/
 95.130.72.0,95.130.79.255,NetBenefit,http://www.netbenefit.com/
 95.140.32.0,95.140.47.255,Szervernet,http://szervernet.hu/
+95.141.37.0,95.141.37.255,SEFLOW,https://www.seflow.net/
 95.142.32.0,95.142.47.255,mchost.ru,http://mchost.ru/
 95.142.160.0,95.142.167.255,Gandi.net,http://www.gandi.net/
 95.143.32.0,95.143.47.255,inline.de,http://www.inline.de/
+95.143.192.0,95.143.207.255,serverconnect.se,https://serverconnect.se/
 95.154.192.0,95.154.255.255,iomart Hosting Ltd,http://www.rapidswitch.com/
 95.156.192.0,95.156.255.255,Optimate Server,http://optimate-server.de/
 95.162.0.0,95.162.255.255,xservers.ro,http://www.xservers.ro/
@@ -1615,6 +1923,9 @@
 95.211.0.0,95.211.255.255,Leaseweb,http://www.leaseweb.com/
 95.215.44.0,95.215.47.255,Yourserver,https://yourserver.se
 95.215.60.0,95.215.63.255,sologigabit.com,http://www.sologigabit.com/en/Dedicated-Servers
+96.0.0.0,96.0.101.255,Amazon AWS,http://www.amazon.com/aws/
+96.0.104.0,96.0.108.255,Amazon AWS,http://www.amazon.com/aws/
+96.0.112.0,96.0.119.255,Amazon AWS,http://www.amazon.com/aws/
 96.6.0.0,96.7.255.255,Akamai,http://akamai.com/
 96.8.112.0,96.8.127.255,Velocity Servers,http://www.velocity-servers.net/
 96.9.128.0,96.9.191.255,hostnoc,http://www.hostnoc.net/
@@ -1631,23 +1942,47 @@
 96.45.176.0,96.45.191.255,Carat Networks,http://www.caratnetworks.com/
 96.46.240.0,96.46.255.255,Peak10,http://www.peak10.com/
 96.47.0.0,96.47.15.255,Data 102,http://data102.com/
+96.47.224.0,96.47.231.255,QuadraNet,https://www.quadranet.com/
 96.125.160.0,96.125.175.255,WebsiteWelcome.com,http://www.websitewelcome.com/
+96.125.176.0,96.125.177.255,Cologlobal,https://www.cologlobal.com/
+96.125.180.0,96.125.181.255,Cologlobal,https://www.cologlobal.com/
+96.125.188.0,96.125.191.255,Cologlobal,https://www.cologlobal.com/
 96.126.96.0,96.126.127.255,Linode,http://www.linode.com/
 96.127.0.0,96.127.127.255,Amazon AWS,http://www.amazon.com/aws/
 96.127.128.0,96.127.191.255,SingleHop,http://www.singlehop.com/
 97.64.0.0,97.64.127.255,Peak Web Hosting,http://www.peakwebhosting.com/
 97.74.0.0,97.74.255.255,GoDaddy.com Inc,http://www.godaddy.com/
 97.107.128.0,97.107.143.255,Linode,http://www.linode.com/
+98.0.227.234,98.0.227.234,unknown,unknown
+98.116.200.37,98.116.200.37,unknown,unknown
 98.126.0.0,98.126.255.255,VPLS Inc. d/b/a Krypt Technologies,http://krypt.com/
 98.129.0.0,98.129.255.255,Rackspace,http://www.rackspace.com/
 98.142.0.0,98.142.15.255,travailsystems.com,http://travailsystems.com/
+98.142.96.0,98.142.111.255,HostDime,https://hostdime.com/
 98.142.208.0,98.142.223.255,Total Server Solutions,http://totalserversolutions.com/
 98.143.144.0,98.143.159.255,QuadraNet,https://quadranet.com/
 98.158.112.0,98.158.127.255,Reliable Hosting,http://reliablehosting.com/
 98.158.144.0,98.158.159.255,US Colo,http://uscolo.com/
 98.158.176.0,98.158.191.255,Midphase,http://www.midphase.com/
 98.158.224.0,98.158.239.255,AccelerateBiz Inc.,http://www.acceleratebiz.com/
+99.77.55.0,99.77.55.3,Amazon AWS,http://www.amazon.com/aws/
+99.77.55.12,99.77.55.15,Amazon AWS,http://www.amazon.com/aws/
+99.77.55.24,99.77.55.27,Amazon AWS,http://www.amazon.com/aws/
+99.77.55.253,99.77.55.255,Amazon AWS,http://www.amazon.com/aws/
+99.77.128.0,99.77.145.255,Amazon AWS,http://www.amazon.com/aws/
+99.77.147.0,99.77.161.255,Amazon AWS,http://www.amazon.com/aws/
+99.77.183.0,99.77.184.255,Amazon AWS,http://www.amazon.com/aws/
+99.77.186.0,99.77.187.255,Amazon AWS,http://www.amazon.com/aws/
+99.77.191.0,99.77.191.255,Amazon AWS,http://www.amazon.com/aws/
+99.77.233.0,99.77.254.255,Amazon AWS,http://www.amazon.com/aws/
+99.78.238.251,99.78.238.251,Amazon AWS,http://www.amazon.com/aws/
+99.78.238.253,99.78.238.253,Amazon AWS,http://www.amazon.com/aws/
+99.78.238.255,99.78.238.255,Amazon AWS,http://www.amazon.com/aws/
 99.79.0.0,99.81.255.255,Amazon AWS,http://www.amazon.com/aws/
+99.150.0.0,99.150.127.255,Amazon AWS,http://www.amazon.com/aws/
+99.151.64.0,99.151.159.255,Amazon AWS,http://www.amazon.com/aws/
+99.151.168.0,99.151.175.255,Amazon AWS,http://www.amazon.com/aws/
+99.151.184.0,99.151.189.255,Amazon AWS,http://www.amazon.com/aws/
 99.192.128.0,99.192.255.255,MojoHost,http://www.mojohost.com
 99.198.96.0,99.198.127.255,SingleHop,http://www.singlehop.com/
 100.20.0.0,100.31.255.255,Amazon AWS,http://www.amazon.com/aws/
@@ -1656,9 +1991,16 @@
 101.0.64.0,101.0.127.255,Digital Pacific,http://www.digitalpacific.com.au/
 101.37.0.0,101.37.255.255,Alibaba,https://www.alibabacloud.com/
 101.200.0.0,101.201.255.255,Alibaba,https://www.alibabacloud.com/
+102.37.0.0,102.37.25.255,Microsoft Azure,http://www.windowsazure.com/en-us/
+102.37.32.0,102.37.79.255,Microsoft Azure,http://www.windowsazure.com/en-us/
+102.37.96.0,102.37.127.255,Microsoft Azure,http://www.windowsazure.com/en-us/
+102.133.0.0,102.133.112.15,Microsoft Azure,http://www.windowsazure.com/en-us/
+102.133.120.0,102.133.240.191,Microsoft Azure,http://www.windowsazure.com/en-us/
+102.133.248.0,102.133.255.255,Microsoft Azure,http://www.windowsazure.com/en-us/
 103.1.112.1,103.1.115.255,CtrlS,http://www.ctrls.in/
 103.1.172.0,103.1.175.255,GoDaddy.com Inc,http://www.godaddy.com/
 103.1.224.0,103.1.227.255,simcentric,http://simcentric.com/
+103.1.236.0,103.1.239.255,SuperData,https://www.superdata.vn/
 103.3.60.0,103.3.63.255,Linode,http://www.linode.com/
 103.3.164.0,103.3.167.255,ReadySpace,http://www.readyspace.com.sg/en/
 103.3.172.0,103.3.175.255,IP ServerOne,http://ipserverone.com/
@@ -1670,11 +2012,17 @@
 103.11.152.0,103.11.155.255,Web Werks,http://www.web-werks.com/
 103.11.244.0,103.11.247.255,easyhost.com.hk,http://easyhost.com.hk/
 103.21.58.0,103.21.59.255,Confluence Networks Inc,http://confluence-networks.com/
+103.21.244.0,103.21.247.255,Cloudflare Inc,https://www.cloudflare.com/
 103.22.128.0,103.22.131.254,Voxel,http://www.voxel.net/
+103.22.200.0,103.22.203.255,Cloudflare Inc,https://www.cloudflare.com/
 103.23.20.0,103.23.23.255,Infinys,http://isi.co.id/
 103.23.152.0,103.23.155.255,ozhosting.com,http://ozhosting.com/
+103.25.56.0,103.25.56.255,Ransom IT,https://www.ransomit.com.au/
+103.25.58.0,103.25.59.255,Ransom IT,https://www.ransomit.com.au/
 103.28.148.0,103.28.149.255,Argon Data Communication,http://easyway.co.id
+103.31.4.0,103.31.7.255,Cloudflare Inc,https://www.cloudflare.com/
 103.45.228.0,103.45.231.255,ESC,https://esc.vn/
+103.120.204.0,103.120.205.255,GTHost,https://gthost.com/
 103.197.148.0,103.197.148.255,Trabia,https://www.trabia.com/
 103.244.50.0,103.244.50.255,Fastly,https://www.fastly.com/
 103.245.222.0,103.245.224.255,Fastly,https://www.fastly.com/
@@ -1682,12 +2030,14 @@
 103.246.250.0,103.246.251.255,quickweb.co.nz,http://quickweb.co.nz/
 103.251.24.0,103.251.27.255,LoopByte,https://loopbyte.com/
 103.253.144.0,103.253.147.255,DigitalOcean,https://www.digitalocean.com/
+104.16.0.0,104.27.255.255,Cloudflare Inc,https://www.cloudflare.com/
 104.36.16.0,104.36.19.255,CloudSigma,https://www.cloudsigma.com/
 104.40.0.0,104.43.255.255,Microsoft Azure,http://www.windowsazure.com/en-us/
 104.44.88.0,104.44.95.255,Microsoft Azure,http://www.windowsazure.com/en-us/
 104.44.128.0,104.44.191.255,Microsoft Azure,http://www.windowsazure.com/en-us/
-104.45.0.0,104.46.127.255,Microsoft Azure,http://www.windowsazure.com/en-us/
-104.46.192.0,104.46.239.255,Microsoft Azure,http://www.windowsazure.com/en-us/
+104.45.0.0,104.46.15.255,Microsoft Azure,http://www.windowsazure.com/en-us/
+104.46.24.0,104.46.127.255,Microsoft Azure,http://www.windowsazure.com/en-us/
+104.46.160.0,104.46.239.255,Microsoft Azure,http://www.windowsazure.com/en-us/
 104.47.128.0,104.47.191.255,Microsoft Azure,http://www.windowsazure.com/en-us/
 104.47.200.0,104.47.215.255,Microsoft Azure,http://www.windowsazure.com/en-us/
 104.47.216.64,104.47.216.127,Microsoft Azure,http://www.windowsazure.com/en-us/
@@ -1695,6 +2045,8 @@
 104.130.64.0,104.130.223.255,Rackspace,http://www.rackspace.com/
 104.131.0.0,104.131.255.255,DigitalOcean USA,https://www.digitalocean.com/
 104.143.0.0,104.143.15.255,Versaweb,https://versaweb.com/
+104.145.224.0,104.145.239.255,DigitalFyre,https://www.digitalfyre.com/
+104.152.223.0,104.152.223.255,H4Y,https://www.h4y.us/
 104.154.0.0,104.155.255.255,Google App Engine,https://cloud.google.com/appengine
 104.156.80.0,104.156.95.255,Fastly,https://www.fastly.com/
 104.156.224.0,104.156.255.255,Choopa,https://www.choopa.com/
@@ -1712,6 +2064,7 @@
 104.214.0.0,104.215.255.255,Microsoft Azure,http://www.windowsazure.com/en-us/
 104.222.160.0,104.222.191.255,Server Network Technologies,http://www.hoststore.com/
 104.223.0.0,104.223.127.255,QuadraNet,https://www.quadranet.com/
+104.225.1.0,104.225.1.255,NetActuate,https://netactuate.com/
 104.233.0.0,104.233.63.255,Server Network Technologies,http://www.hoststore.com/
 104.233.64.0,104.233.127.255,KW Datacenter CA,http://www.kwdatacentre.com/
 104.238.128.0,104.238.191.255,Choopa,https://www.choopa.com/
@@ -1721,11 +2074,13 @@
 104.245.96.0,104.245.103.255,VolumeDrive,http://volumedrive.com/
 104.248.0.0,104.248.255.255,Server Network Technologies,http://www.hoststore.com/
 104.255.64.0,104.255.71.255,Volume Drive,http://volumedrive.com
+106.11.152.0,106.11.159.255,Alibaba,http://alibaba-inc.com/
 106.186.120.0,106.186.127.255,Linode Japan,https://www.linode.com/
 107.6.0.0,107.6.63.255,PEER 1,http://www.peer1.com/
 107.6.64.0,107.6.127.255,Voxel,http://www.voxel.net/
 107.6.128.0,107.6.191.255,SingleHop,http://www.singlehop.com/
 107.20.0.0,107.23.255.255,Amazon AWS,http://www.amazon.com/aws/
+107.143.103.18,107.143.103.18,unknown,unknown
 107.150.32.0,107.150.63.255,Data Shack,https://www.datashack.net/
 107.150.96.0,107.150.127.255,Zenlayer,http://www.zenlayer.com/
 107.151.128.0,107.151.191.255,Zenlayer,http://www.zenlayer.com/
@@ -1736,18 +2091,22 @@
 107.167.160.0,107.167.191.255,Google App Engine,https://cloud.google.com/appengine
 107.170.0.0,107.170.255.255,DigitalOcean USA,https://www.digitalocean.com/
 107.172.0.0,107.175.255.255,ColoCrossing,http://www.colocrossing.com/
+107.176.0.0,107.177.255.255,Amazon AWS,http://www.amazon.com/aws/
 107.178.192.0,107.178.255.255,Google App Engine,https://cloud.google.com/appengine
 107.180.0.0,107.180.127.255,GoDaddy.com Inc,http://www.godaddy.com/
 107.181.160.0,107.181.191.255,Total Server Solutions,http://totalserversolutions.com/
 107.190.128.0,107.190.143.255,DimeNOC,http://dimenoc.com/
 107.191.32.0,107.191.63.255,Choopa,https://www.choopa.com/
+108.2.193.136,108.2.193.136,unknown,unknown
 108.59.0.0,108.59.15.255,Leaseweb,http://www.leaseweb.com/
 108.59.80.0,108.59.95.255,Google App Engine,https://cloud.google.com/appengine
 108.59.240.0,108.59.255.255,EarthLink Cloud,http://www.earthlinkcloud.com/
 108.60.64.0,108.60.95.255,Techie Media,http://techiemedia.net/
+108.61.0.0,108.61.255.255,Vultr,https://www.vultr.com/
 108.62.0.0,108.62.255.255,Ubiquity Server Solutions,http://www.ubiquityservers.com/
-108.128.0.0,108.135.255.255,Amazon AWS,http://www.amazon.com/aws/
+108.128.0.0,108.137.255.255,Amazon AWS,http://www.amazon.com/aws/
 108.160.144.0,108.160.159.255,PrivateSystems.net,http://privatesystems.net/
+108.162.192.0,108.162.255.255,Cloudflare Inc,https://www.cloudflare.com/
 108.163.128.0,108.163.191.255,iWeb Technologies Inc.,http://iweb.com/
 108.163.192.0,108.163.255.255,SingleHop,http://www.singlehop.com/
 108.166.0.0,108.166.127.255,Rackspace,http://www.rackspace.com/
@@ -1755,13 +2114,14 @@
 108.167.128.0,108.167.191.255,WebsiteWelcome.com,http://www.websitewelcome.com/
 108.168.128.0,108.168.255.255,SoftLayer,http://www.softlayer.com/
 108.170.0.0,108.170.63.255,Secure Servers,http://www.securedservers.com/
-108.170.192.0,108.170.215.255,Google App Engine,https://cloud.google.com/appengine
+108.170.192.0,108.170.222.255,Google App Engine,https://cloud.google.com/appengine
 108.171.160.0,108.171.191.255,Rackspace,http://www.rackspace.com/
 108.171.192.0,108.171.223.255,WebNX Internet Services,http://webnx.com/
 108.171.240.0,108.171.255.255,Psychz Networks,http://psychz.net/
 108.174.48.0,108.174.63.255,ColoCrossing,http://www.colocrossing.com/
 108.174.192.0,108.174.207.255,hostwinds.com,http://www.hostwinds.com/
 108.175.0.0,108.175.15.255,1&1 Internet,http://www.1and1.com/
+108.175.56.0,108.175.63.255,Amazon AWS,http://www.amazon.com/aws/
 108.177.128.0,108.177.255.255,Ubiquity Server Solutions,http://www.ubiquityservers.com/
 108.178.0.0,108.178.63.255,SingleHop,http://www.singlehop.com/
 108.179.192.0,108.179.255.255,WebsiteWelcome.com,http://www.websitewelcome.com/
@@ -1800,6 +2160,8 @@
 109.238.48.0,109.238.63.255,Solido Hosting A/S,http://solidohosting.com/
 109.248.32.0,109.248.33.255,Zomro,http://zomro.com/
 110.4.40.0,110.4.47.255,Exa Bytes Network Sdn Bhd,http://exabytes.com/
+111.68.16.0,111.68.19.255,Tsukaeru.net,https://tsukaeru.net/
+111.90.128.0,111.90.159.255,Shinjiru,https://www.shinjiru.com.my/
 111.91.236.0,111.91.239.255,ReadySpace,http://www.readyspace.com.sg/en/
 111.221.29.0,111.221.31.255,Microsoft Azure,http://www.windowsazure.com/en-us/
 111.221.78.0,111.221.111.255,Microsoft Azure,http://www.windowsazure.com/en-us/
@@ -1809,6 +2171,7 @@
 114.141.192.0,114.141.193.255,Dedicated Servers,http://dedicatedservers.net.au/
 114.141.195.0,114.141.195.255,Dedicated Servers,http://dedicatedservers.net.au/
 114.141.200.0,114.141.203.255,Dedicated Servers,http://dedicatedservers.net.au/
+114.215.0.0,114.215.255.255,Alibaba,https://www.alibabacloud.com/
 115.68.0.0,115.68.255.255,1000dedi.net,http://www.1000dedi.net/
 115.124.96.0,115.124.103.255,BODHost,http://bodhost.com/
 115.124.104.0,115.124.105.255,esds.co.in,http://www.esds.co.in/
@@ -1833,6 +2196,8 @@
 119.31.224.0,119.31.231.255,Micron21,http://www.micron21.com/
 119.37.0.0,119.37.191.255,21vianet,http://21vianet.com/
 119.81.0.0,119.81.255.255,SoftLayer,http://www.softlayer.com/
+119.82.28.0,119.82.31.255,Tsukaeru.net,https://tsukaeru.net/
+120.55.0.0,120.55.255.255,Alibaba Cloud Japan,https://www.alibabacloud.com/
 120.132.128.0,120.135.255.255,21vianet,http://21vianet.com/
 120.136.32.0,120.136.47.255,Rackspace,http://www.rackspace.com/
 121.50.64.0,121.50.127.255,kinx.net,http://idc.kinx.net/
@@ -1859,71 +2224,97 @@
 128.204.208.0,128.204.215.255,ecritel.net,http://www.ecritel.net/
 130.185.144.0,130.185.151.255,Titan Internet Ltd,http://www.titaninternet.co.uk/index.cfm
 130.185.152.0,130.185.155.255,webexxpurts.com,http://webexxpurts.com/
-130.211.8.0,130.211.255.255,Google App Engine,https://cloud.google.com/appengine
-131.253.12.8,131.253.12.31,Microsoft Azure,http://www.windowsazure.com/en-us/
-131.253.12.36,131.253.12.79,Microsoft Azure,http://www.windowsazure.com/en-us/
-131.253.12.96,131.253.12.231,Microsoft Azure,http://www.windowsazure.com/en-us/
-131.253.12.248,131.253.13.91,Microsoft Azure,http://www.windowsazure.com/en-us/
-131.253.13.96,131.253.13.255,Microsoft Azure,http://www.windowsazure.com/en-us/
+130.211.4.0,130.211.63.255,Google App Engine,https://cloud.google.com/appengine
+130.255.72.0,130.255.79.255,Providerdienste.de,https://www.providerdienste.de/
+131.0.72.0,131.0.75.255,Cloudflare Inc,https://www.cloudflare.com/
+131.253.12.16,131.253.12.31,Microsoft Azure,http://www.windowsazure.com/en-us/
+131.253.12.40,131.253.12.55,Microsoft Azure,http://www.windowsazure.com/en-us/
+131.253.12.160,131.253.12.231,Microsoft Azure,http://www.windowsazure.com/en-us/
+131.253.12.248,131.253.13.63,Microsoft Azure,http://www.windowsazure.com/en-us/
+131.253.13.72,131.253.13.91,Microsoft Azure,http://www.windowsazure.com/en-us/
+131.253.13.96,131.253.13.107,Microsoft Azure,http://www.windowsazure.com/en-us/
+131.253.13.128,131.253.13.159,Microsoft Azure,http://www.windowsazure.com/en-us/
 131.253.14.4,131.253.14.9,Microsoft Azure,http://www.windowsazure.com/en-us/
-131.253.14.16,131.253.14.199,Microsoft Azure,http://www.windowsazure.com/en-us/
+131.253.14.16,131.253.14.71,Microsoft Azure,http://www.windowsazure.com/en-us/
+131.253.14.96,131.253.14.199,Microsoft Azure,http://www.windowsazure.com/en-us/
 131.253.14.208,131.253.14.239,Microsoft Azure,http://www.windowsazure.com/en-us/
 131.253.14.248,131.253.14.255,Microsoft Azure,http://www.windowsazure.com/en-us/
-131.253.15.8,131.253.15.255,Microsoft Azure,http://www.windowsazure.com/en-us/
-131.253.24.0,131.253.27.255,Microsoft Azure,http://www.windowsazure.com/en-us/
-131.253.34.0,131.253.34.191,Microsoft Azure,http://www.windowsazure.com/en-us/
-131.253.34.224,131.253.35.255,Microsoft Azure,http://www.windowsazure.com/en-us/
-131.253.36.128,131.253.38.119,Microsoft Azure,http://www.windowsazure.com/en-us/
-131.253.38.128,131.253.38.255,Microsoft Azure,http://www.windowsazure.com/en-us/
-131.253.40.0,131.253.40.159,Microsoft Azure,http://www.windowsazure.com/en-us/
-131.253.41.0,131.253.41.255,Microsoft Azure,http://www.windowsazure.com/en-us/
+131.253.15.8,131.253.15.63,Microsoft Azure,http://www.windowsazure.com/en-us/
+131.253.15.192,131.253.15.255,Microsoft Azure,http://www.windowsazure.com/en-us/
+131.253.24.0,131.253.24.15,Microsoft Azure,http://www.windowsazure.com/en-us/
+131.253.24.160,131.253.25.255,Microsoft Azure,http://www.windowsazure.com/en-us/
+131.253.27.0,131.253.27.255,Microsoft Azure,http://www.windowsazure.com/en-us/
+131.253.34.224,131.253.34.255,Microsoft Azure,http://www.windowsazure.com/en-us/
+131.253.35.128,131.253.35.255,Microsoft Azure,http://www.windowsazure.com/en-us/
+131.253.36.128,131.253.36.191,Microsoft Azure,http://www.windowsazure.com/en-us/
+131.253.36.224,131.253.36.255,Microsoft Azure,http://www.windowsazure.com/en-us/
+131.253.38.0,131.253.38.63,Microsoft Azure,http://www.windowsazure.com/en-us/
+131.253.38.128,131.253.38.191,Microsoft Azure,http://www.windowsazure.com/en-us/
+131.253.38.224,131.253.38.255,Microsoft Azure,http://www.windowsazure.com/en-us/
+131.253.40.0,131.253.40.55,Microsoft Azure,http://www.windowsazure.com/en-us/
+131.253.40.64,131.253.40.175,Microsoft Azure,http://www.windowsazure.com/en-us/
+131.253.40.192,131.253.41.255,Microsoft Azure,http://www.windowsazure.com/en-us/
 134.0.24.0,134.0.31.255,TwooIT,http://www.twooit.de/
 134.19.176.0,134.19.191.255,serverboost.nl,http://serverboost.nl/
 134.119.216.166,134.119.216.167,Velia,https://www.velia.net/
+134.170.80.64,134.170.80.79,Microsoft Azure,http://www.windowsazure.com/en-us/
 134.170.192.0,134.170.199.255,Microsoft Azure,http://www.windowsazure.com/en-us/
-134.170.220.0,134.170.223.255,Microsoft Azure,http://www.windowsazure.com/en-us/
+134.170.220.0,134.170.222.255,Microsoft Azure,http://www.windowsazure.com/en-us/
 134.255.192.0,134.255.255.255,Optimate Server,http://optimate-server.de/
+136.18.50.0,136.18.51.255,Amazon AWS,http://www.amazon.com/aws/
 137.74.0.0,137.74.255.255,OVH,https://www.ovh.ie/
 137.116.0.0,137.116.99.255,Microsoft Azure,http://www.windowsazure.com/en-us/
 137.116.112.0,137.117.255.255,Microsoft Azure,http://www.windowsazure.com/en-us/
 137.135.0.0,137.135.255.255,Microsoft Azure,http://www.windowsazure.com/en-us/
 138.91.0.0,138.91.255.255,Microsoft Azure,http://www.windowsazure.com/en-us/
 138.197.0.0,138.197.255.255,DigitalOcean,https://www.digitalocean.com/
+139.64.164.0,139.64.165.255,GTHost,https://gthost.com/
+139.99.208.0,139.99.209.255,OVH Hosting,https://us.ovhcloud.com/
 139.162.0.0,139.162.255.255,Linode,http://www.linode.com/
 139.199.0.0,139.199.255.255,Tencent Cloud,https://intl.cloud.tencent.com/
 140.143.0.0,140.143.255.255,Tencent Cloud,https://intl.cloud.tencent.com/
 140.179.0.0,140.179.255.255,Amazon AWS,http://www.amazon.com/aws/
 141.0.160.0,141.0.167.255,NuFuture Ltd,http://www.nublue.co.uk/
+141.101.64.0,141.101.127.255,Cloudflare Inc,https://www.cloudflare.com/
 141.105.64.0,141.105.71.255,HostKey,http://www.hostkey.com/
 141.138.136.0,141.138.143.255,transip,https://www.transip.nl/
 142.0.32.0,142.0.47.255,Volume Drive,http://volumedrive.com
 142.4.32.0,142.4.63.255,WebNX Internet Services,http://webnx.com/
+142.4.160.0,142.4.161.47,Amazon AWS,http://www.amazon.com/aws/
+142.4.177.0,142.4.177.255,Amazon AWS,http://www.amazon.com/aws/
 142.4.192.0,142.4.223.255,OVH,http://www.ovh.co.uk/
 142.11.192.0,142.11.255.255,hostwinds.com,http://www.hostwinds.com/
 142.54.160.0,142.54.191.255,Data Shack,https://www.datashack.net/
 142.91.0.0,142.91.255.255,Ubiquity Server Solutions,http://www.ubiquityservers.com/
+142.202.48.0,142.202.50.255,GTHost,https://gthost.com/
 142.234.0.0,142.234.255.255,Ubiquity Server Solutions,http://www.ubiquityservers.com/
+144.48.37.0,144.48.37.255,HostRoyale,https://hostroyale.com/
+144.76.59.224,144.76.59.255,Hetzner Online AG,http://www.hetzner.de/
 144.217.0.0,144.217.255.255,OVH CA,https://www.ovh.com/ca/en/
 146.0.72.0,146.0.79.255,HostKey,http://www.hostkey.com/
 146.0.231.216,146.0.231.223,AlphaRacks,https://www.alpharacks.com/
-146.148.2.0,146.148.127.255,Google App Engine,https://cloud.google.com/appengine
 146.185.16.0,146.185.31.255,UK2 Group,http://www.100tb.com/
 146.185.128.0,146.185.191.255,DigitalOcean,https://www.digitalocean.com/
 146.255.24.0,146.255.31.255,Angel Hosting,http://www.angel-hosting.cz/
 146.255.32.0,146.255.47.255,GoDaddy.com Inc,http://www.godaddy.com/
 146.255.168.0,146.255.175.255,WEBAXYS,http://www.webaxys.fr/
 147.75.192.0,147.75.207.255,Packet Host,https://www.packet.net/
+147.135.0.0,147.135.127.255,OVH US LLC,https://us.ovhcloud.com/
 147.203.0.0,147.203.255.255,American Internet Services,http://americanis.net/
 147.255.0.0,147.255.255.255,Ubiquity Server Solutions,http://www.ubiquityservers.com/
+148.72.0.0,148.72.255.255,GoDaddy.com Inc,http://www.godaddy.com/
 148.251.0.0,148.251.255.255,Hetzner Online AG,http://www.hetzner.de/
 149.3.128.0,149.3.143.255,Redstation Limited,http://redstation.com/
 149.154.152.0,149.154.159.255,EDIS,http://www.edis.at/
 149.202.0.0,149.202.255.255,OVH,https://www.ovh.co.uk/
 149.210.164.0,149.210.164.255,TransIP,https://www.transip.nl/
 149.255.32.0,149.255.39.255,Swiftway,http://swiftway.net/
+150.95.104.0,150.95.111.255,Tenten,https://tenten.vn/
 151.1.0.0,151.2.255.255,IT.NET,https://www.it.net/
 151.80.128.0,151.80.159.255,OVH FR,https://www.ovh.ie/
 151.101.0.0,151.101.255.255,Fastly,https://www.fastly.com/
+151.148.32.0,151.148.41.255,Amazon AWS,http://www.amazon.com/aws/
+151.216.8.0,151.216.15.255,TerraHost,https://terrahost.no/
 151.236.4.0,151.236.4.255,EDIS,http://www.edis.at/
 151.236.8.0,151.236.8.255,EDIS,http://www.edis.at/
 151.236.13.0,151.236.15.255,EDIS,http://www.edis.at/
@@ -1933,8 +2324,12 @@
 151.237.176.0,151.237.177.255,webexxpurts.com,http://webexxpurts.com/
 151.237.181.0,151.237.181.255,webexxpurts.com,http://webexxpurts.com/
 151.237.184.0,151.237.184.255,webexxpurts.com,http://webexxpurts.com/
+154.16.139.0,154.16.139.255,GTHost,https://gthost.com/
+154.16.159.0,154.16.159.255,LaunchVPS,https://launchvps.com/
 155.94.128.0,155.94.255.255,QuadraNet,https://www.quadranet.com/
+155.254.18.0,155.254.18.255,H4Y,https://www.h4y.us/
 157.52.64.0,157.52.127.255,Fastly,https://www.fastly.com/
+157.52.132.0,157.52.132.255,TeraSwitch Networks Inc,https://teraswitch.com/
 157.55.2.128,157.55.2.191,Microsoft Azure,http://www.windowsazure.com/en-us/
 157.55.3.0,157.55.3.255,Microsoft Azure,http://www.windowsazure.com/en-us/
 157.55.7.128,157.55.7.191,Microsoft Azure,http://www.windowsazure.com/en-us/
@@ -1951,28 +2346,32 @@
 157.55.50.0,157.55.50.127,Microsoft Azure,http://www.windowsazure.com/en-us/
 157.55.51.224,157.55.51.239,Microsoft Azure,http://www.windowsazure.com/en-us/
 157.55.55.0,157.55.55.47,Microsoft Azure,http://www.windowsazure.com/en-us/
-157.55.55.64,157.55.55.95,Microsoft Azure,http://www.windowsazure.com/en-us/
-157.55.55.100,157.55.55.207,Microsoft Azure,http://www.windowsazure.com/en-us/
+157.55.55.100,157.55.55.111,Microsoft Azure,http://www.windowsazure.com/en-us/
+157.55.55.136,157.55.55.183,Microsoft Azure,http://www.windowsazure.com/en-us/
+157.55.55.200,157.55.55.207,Microsoft Azure,http://www.windowsazure.com/en-us/
 157.55.55.216,157.55.55.223,Microsoft Azure,http://www.windowsazure.com/en-us/
 157.55.55.228,157.55.55.255,Microsoft Azure,http://www.windowsazure.com/en-us/
 157.55.60.224,157.55.60.255,Microsoft Azure,http://www.windowsazure.com/en-us/
 157.55.64.0,157.55.87.255,Microsoft Azure,http://www.windowsazure.com/en-us/
 157.55.103.32,157.55.103.63,Microsoft Azure,http://www.windowsazure.com/en-us/
 157.55.103.128,157.55.103.255,Microsoft Azure,http://www.windowsazure.com/en-us/
-157.55.106.0,157.55.111.255,Microsoft Azure,http://www.windowsazure.com/en-us/
+157.55.106.0,157.55.106.63,Microsoft Azure,http://www.windowsazure.com/en-us/
+157.55.106.128,157.55.111.255,Microsoft Azure,http://www.windowsazure.com/en-us/
 157.55.115.0,157.55.115.127,Microsoft Azure,http://www.windowsazure.com/en-us/
 157.55.136.0,157.55.143.255,Microsoft Azure,http://www.windowsazure.com/en-us/
 157.55.151.0,157.55.151.15,Microsoft Azure,http://www.windowsazure.com/en-us/
 157.55.153.224,157.55.153.239,Microsoft Azure,http://www.windowsazure.com/en-us/
 157.55.154.128,157.55.154.255,Microsoft Azure,http://www.windowsazure.com/en-us/
-157.55.160.0,157.55.204.47,Microsoft Azure,http://www.windowsazure.com/en-us/
+157.55.160.0,157.55.203.255,Microsoft Azure,http://www.windowsazure.com/en-us/
+157.55.204.1,157.55.204.3,Microsoft Azure,http://www.windowsazure.com/en-us/
+157.55.204.33,157.55.204.35,Microsoft Azure,http://www.windowsazure.com/en-us/
 157.55.204.128,157.55.204.255,Microsoft Azure,http://www.windowsazure.com/en-us/
 157.55.208.0,157.55.215.255,Microsoft Azure,http://www.windowsazure.com/en-us/
-157.55.230.160,157.55.230.191,Microsoft Azure,http://www.windowsazure.com/en-us/
-157.55.248.0,157.56.3.255,Microsoft Azure,http://www.windowsazure.com/en-us/
+157.55.248.0,157.55.255.255,Microsoft Azure,http://www.windowsazure.com/en-us/
+157.56.2.0,157.56.3.255,Microsoft Azure,http://www.windowsazure.com/en-us/
 157.56.8.0,157.56.15.255,Microsoft Azure,http://www.windowsazure.com/en-us/
 157.56.19.224,157.56.19.255,Microsoft Azure,http://www.windowsazure.com/en-us/
-157.56.21.32,157.56.21.223,Microsoft Azure,http://www.windowsazure.com/en-us/
+157.56.21.160,157.56.21.223,Microsoft Azure,http://www.windowsazure.com/en-us/
 157.56.24.160,157.56.24.207,Microsoft Azure,http://www.windowsazure.com/en-us/
 157.56.28.0,157.56.31.255,Microsoft Azure,http://www.windowsazure.com/en-us/
 157.56.80.0,157.56.80.127,Microsoft Azure,http://www.windowsazure.com/en-us/
@@ -1981,6 +2380,7 @@
 157.56.176.0,157.56.183.255,Microsoft Azure,http://www.windowsazure.com/en-us/
 157.56.216.0,157.56.216.63,Microsoft Azure,http://www.windowsazure.com/en-us/
 157.175.0.0,157.175.255.255,Amazon AWS,http://www.amazon.com/aws/
+157.241.0.0,157.241.255.255,Amazon AWS,http://www.amazon.com/aws/
 158.58.168.0,158.58.171.255,SeFlow.it Internet Services,http://seflow.net/
 158.69.0.0,158.69.255.255,OVH CA,https://www.ovh.com/ca/en/
 158.85.0.0,158.85.255.255,SoftLayer,http://www.softlayer.com/
@@ -1996,7 +2396,11 @@
 159.253.56.0,159.253.63.255,host-it.co.uk,http://www.host-it.co.uk/
 159.253.128.0,159.253.159.255,SoftLayer,http://www.softlayer.com/
 160.1.0.0,160.1.255.255,Amazon AWS,http://www.amazon.com/aws/
+160.153.0.0,160.153.255.255,GoDaddy.com Inc,http://www.godaddy.com/
+161.188.128.0,161.188.161.255,Amazon AWS,http://www.amazon.com/aws/
+161.189.0.0,161.189.255.255,Amazon AWS,http://www.amazon.com/aws/
 161.202.0.0,161.202.255.255,SoftLayer,http://www.softlayer.com/
+162.158.0.0,162.159.255.255,Cloudflare Inc,https://www.cloudflare.com/
 162.208.8.0,162.208.11.255,vpscheap.net,http://vpscheap.net/
 162.209.0.0,162.209.127.255,Rackspace,http://www.rackspace.com/
 162.210.192.0,162.210.199.255,Leaseweb,http://www.leaseweb.com/
@@ -2007,31 +2411,37 @@
 162.213.152.0,162.213.155.255,Forta Trust,http://www.fortatrust.com/
 162.213.208.0,162.213.211.255,Input Output Flood LLC,http://ioflood.com/
 162.213.216.0,162.213.223.255,wehostwebsites.com,http://wehostwebsites.com/
-162.213.232.0,162.213.232.255,Amazon AWS,http://www.amazon.com/aws/
+162.213.232.0,162.213.235.255,Amazon AWS,http://www.amazon.com/aws/
 162.216.4.0,162.216.7.255,Hivelocity Hosting,http://www.hivelocity.net/
 162.216.44.0,162.216.47.255,Total Server Solutions,http://totalserversolutions.com/
 162.216.112.0,162.216.115.255,InterServer.net,http://www.interserver.net/
-162.216.148.0,162.216.151.255,Google App Engine,https://cloud.google.com/appengine
 162.217.96.0,162.217.103.255,Voxel,http://www.voxel.net/
 162.218.48.0,162.218.55.255,awknet,http://awknet.com/
 162.218.112.0,162.218.119.255,Input Output Flood LLC,http://ioflood.com/
+162.218.228.0,162.218.231.255,The Optimal Link Corporation,https://www.oplink.net/
 162.220.32.0,162.220.35.255,Staminus Communications,http://staminus.net/
 162.220.160.0,162.220.167.255,InterServer.net,http://www.interserver.net/
 162.221.4.0,162.221.7.255,Zenlayer,http://www.zenlayer.com/
+162.221.88.0,162.221.95.255,Wisconsin CyberLynk Network,http://www.cyberlynk.net/
 162.221.184.0,162.221.191.255,DimeNOC,http://dimenoc.com/
 162.221.192.0,162.221.199.255,Zenlayer,http://www.zenlayer.com/
-162.222.176.0,162.222.183.255,Google App Engine,https://cloud.google.com/appengine
+162.222.148.0,162.222.151.255,Amazon AWS,http://www.amazon.com/aws/
+162.240.0.0,162.241.255.255,Bluehost.com,http://www.bluehost.com/
 162.242.128.0,162.242.255.255,Rackspace,http://www.rackspace.com/
 162.243.0.0,162.243.255.255,DigitalOcean USA,https://www.digitalocean.com/
 162.244.24.0,162.244.31.255,KW Datacenter CA,http://www.kwdatacentre.com/
 162.246.16.0,162.246.23.255,InterServer.net,http://www.interserver.net/
 162.248.8.0,162.248.11.255,KW Datacenter CA,http://www.kwdatacentre.com/
+162.248.52.0,162.248.55.255,Gigas,https://gigas.com/en/
 162.248.72.0,162.248.79.255,Volume Drive,http://volumedrive.com
 162.248.160.0,162.248.167.255,KW Datacenter CA,http://www.kwdatacentre.com/
 162.250.120.0,162.250.127.255,InterServer.net,http://www.interserver.net/
-162.250.236.0,162.250.236.255,Amazon AWS,http://www.amazon.com/aws/
+162.250.236.0,162.250.239.255,Amazon AWS,http://www.amazon.com/aws/
+162.251.60.0,162.251.63.255,GTHost,https://globaltelehost.com/
 162.252.240.0,162.252.243.255,KW Datacenter CA,http://www.kwdatacentre.com/
 163.47.8.0,163.47.11.255,DigitalOcean,https://www.digitalocean.com/
+163.47.17.0,163.47.17.255,Ransom IT,https://www.ransomit.com.au/
+163.47.20.0,163.47.20.255,Ransom IT,https://www.ransomit.com.au/
 164.40.133.0,164.40.133.255,GoGrid LLC,http://www.gogrid.com/
 164.40.144.0,164.40.144.255,GoGrid LLC,http://www.gogrid.com/
 164.40.147.0,164.40.147.255,GoGrid LLC,http://www.gogrid.com/
@@ -2041,7 +2451,10 @@
 166.62.0.0,166.62.127.255,GoDaddy.com Inc,http://www.godaddy.com/
 166.78.0.0,166.78.255.255,Rackspace,http://www.rackspace.com/
 167.88.32.0,167.88.47.255,KW Datacenter CA,http://www.kwdatacentre.com/
+167.88.60.0,167.88.63.255,GTHost,https://gthost.com/
 167.99.0.0,167.99.255.255,DigitalOcean,https://www.digitalocean.com/
+167.114.0.0,167.114.255.255,OVH,https://www.ovh.com/ca/en/
+167.142.0.0,167.142.255.255,Aureon Network Services,http://aureon.com/
 167.160.32.0,167.160.63.255,Web2Objects,https://web2objects.com/
 168.1.0.0,168.1.255.255,SoftLayer,http://www.softlayer.com/
 168.61.0.0,168.61.128.143,Microsoft Azure,http://www.windowsazure.com/en-us/
@@ -2066,6 +2479,8 @@
 169.53.0.0,169.55.255.255,SoftLayer,http://www.softlayer.com/
 169.56.64.0,169.56.159.255,SoftLayer,http://www.softlayer.com/
 169.57.0.0,169.57.255.255,SoftLayer,http://www.softlayer.com/
+172.64.0.0,172.71.255.255,Cloudflare Inc,https://www.cloudflare.com/
+172.82.128.0,172.82.143.255,QuickPacket,https://quickpacket.com/
 172.96.128.0,172.96.135.255,Versaweb,https://versaweb.com/
 172.98.64.0,172.98.95.255,Total Server Solutions,http://totalserversolutions.com/
 172.111.64.0,172.111.127.255,Fastly,https://www.fastly.com/
@@ -2077,6 +2492,7 @@
 173.1.0.0,173.1.255.255,GoGrid,http://www.gogrid.com/
 173.44.32.0,173.44.63.255,QuadraNet,https://quadranet.com/
 173.44.128.0,173.44.255.255,infinitie.net,http://www.serverhub.com/
+173.45.80.56,173.45.80.63,XLHost.com,http://www.xlhost.com/
 173.45.224.0,173.45.255.255,Rackspace,http://www.rackspace.com/
 173.192.0.0,173.192.245.255,SoftLayer,http://www.softlayer.com/
 173.192.248.0,173.193.255.255,SoftLayer,http://www.softlayer.com/
@@ -2095,6 +2511,7 @@
 173.213.224.0,173.213.239.255,Edgewebhosting,http://www.edgewebhosting.net/
 173.213.240.0,173.213.255.255,American Internet Services,http://americanis.net/
 173.214.160.0,173.214.175.255,InterServer.net,http://www.interserver.net/
+173.214.184.0,173.214.191.255,KVCHOSTING.COM LLC,https://www.kvchosting.net/
 173.222.0.0,173.223.255.255,Akamai,http://akamai.com/
 173.224.112.0,173.224.127.255,Hosting Solutions International Inc,http://www.plusserver.de
 173.224.208.0,173.224.223.255,Psychz Networks,http://psychz.net/
@@ -2120,6 +2537,7 @@
 173.243.112.0,173.243.127.255,Continuum Data Centers,http://www.continuumdatacenters.com/
 173.244.64.0,173.244.79.255,GoGrid LLC,http://www.gogrid.com/
 173.244.192.0,173.244.223.255,Midphase,http://www.midphase.com/
+173.245.48.0,173.245.63.255,Cloudflare Inc,https://www.cloudflare.com/
 173.245.64.0,173.245.95.255,EGIHosting.com,http://www.egihosting.com/
 173.246.96.0,173.246.111.255,Gandi.net US,http://www.gandi.net/
 173.248.128.0,173.248.191.255,wehostwebsites.com,http://wehostwebsites.com/
@@ -2128,7 +2546,6 @@
 173.252.192.0,173.252.255.255,Take 2 Hosting,http://www.take2hosting.com/
 173.254.0.0,173.254.127.255,Bluehost.com,http://www.bluehost.com/
 173.254.192.0,173.254.255.255,QuadraNet,https://quadranet.com/
-173.255.112.0,173.255.127.255,Google App Engine,https://cloud.google.com/appengine
 173.255.128.0,173.255.143.255,Midphase,http://www.midphase.com/
 173.255.160.0,173.255.191.255,Reliable Hosting,http://reliablehosting.com/
 173.255.192.0,173.255.255.255,Linode,http://www.linode.com/
@@ -2150,6 +2567,7 @@
 174.142.0.0,174.142.255.255,iWeb Technologies Inc.,http://iweb.com/
 174.143.0.0,174.143.255.255,Rackspace,http://www.rackspace.com/
 175.41.128.0,175.41.255.255,Amazon AWS,http://www.amazon.com/aws/
+175.45.136.0,175.45.143.255,Tsukaeru.net,https://tsukaeru.net/
 176.9.0.0,176.9.255.255,Hetzner Online AG,http://www.hetzner.de/
 176.28.0.0,176.28.63.255,Host Europe,http://www.hosteurope.de/
 176.28.96.0,176.28.127.255,acens Technologies S.L.,http://www.acens.com/
@@ -2171,6 +2589,7 @@
 176.74.160.0,176.74.191.255,PEER 1,http://www.peer1.com/
 176.103.48.0,176.103.63.255,XServer,https://xserver.ua/
 176.121.14.0,176.121.14.255,General Servers,https://general-servers.com/
+176.126.83.0,176.126.83.255,OneProvider,https://oneprovider.com/
 176.126.240.0,176.126.247.255,BHost Inc,https://www.bhost.net/
 176.227.192.120,176.227.192.127,Redstation Limited,http://redstation.com/
 176.227.195.0,176.227.195.7,Redstation Limited,http://redstation.com/
@@ -2252,6 +2671,7 @@
 178.79.128.0,178.79.191.255,Linode,http://www.linode.com/
 178.79.192.0,178.79.255.255,Limelight Networks Inc,http://www.limelight.com/
 178.86.0.0,178.87.255.255,hosting.ua,http://hosting.ua/
+178.128.0.0,178.128.255.255,DigitalOcean Europe,https://www.digitalocean.com/
 178.156.0.0,178.156.127.255,ServiHosting Networks S.L.,http://servihosting.es
 178.159.37.0,178.159.37.255,SBY Telecom,http://sby-telecom.info/
 178.159.240.0,178.159.255.255,ActiveCloud,https://www.active.by/
@@ -2261,6 +2681,7 @@
 178.208.32.0,178.208.63.255,Combell,http://www.combell.com/
 178.208.64.0,178.208.95.255,mchost.ru,http://mchost.ru/
 178.209.32.0,178.209.63.255,nine.ch,http://nine.ch/
+178.210.160.0,178.210.191.255,Markum,https://www.markum.net/
 178.211.32.0,178.211.63.255,Radore Hosting,http://as42926.net/
 178.214.96.0,178.214.127.255,2dayhost.com,http://www.2dayhost.com/
 178.216.48.0,178.216.55.255,webexxpurts.com,http://webexxpurts.com/
@@ -2281,6 +2702,7 @@
 178.255.144.0,178.255.151.255,Blix Solutions,http://blixsolutions.no/
 178.255.152.0,178.255.159.255,ANEXIA,https://www.anexia-it.com/
 178.255.192.0,178.255.199.255,qweb,http://www.qweb.nl/
+179.43.128.0,179.43.191.255,Private Layer,https://privatelayer.com/
 179.61.207.0,179.61.207.255,Host1Plus Brazil,http://www.host1plus.com/
 179.107.32.0,179.107.47.255,alog,http://www.alog.com.br/
 180.92.184.0,180.92.191.255,Voxel,http://www.voxel.net/
@@ -2342,6 +2764,7 @@
 185.22.152.0,185.22.153.255,JustHost,https://www.justhost.ru
 185.22.172.0,185.22.172.255,Veesp,https://veesp.com/en/
 185.22.184.0,185.22.187.255,Natro,http://cizgi.net.tr/
+185.25.20.0,185.25.21.255,Pointer,https://www.pointer.gr/
 185.25.184.0,185.25.184.255,NETIO,https://www.netio.cz/
 185.26.48.0,185.26.51.255,UpCloud,https://www.upcloud.com/
 185.27.236.0,185.27.236.255,3W Infra,https://ccc.3winfra.com/
@@ -2364,8 +2787,10 @@
 185.62.190.0,185.62.191.255,BlazingFast,https://blazingfast.io/
 185.68.180.128,185.68.180.255,Internet Unie,https://iu.nl/
 185.80.128.0,185.80.131.255,VPSnet,https://www.vpsnet.com/lt
+185.84.108.0,185.84.111.255,Majordomo,https://www.majordomo.ru/
 185.86.148.0,185.86.149.255,Yourserver Sweden,https://www.yourserver.se/
 185.86.151.0,185.86.151.255,Yourserver Latvia,https://www.yourserver.se/
+185.98.131.0,185.98.131.255,LWS,https://www.lws.fr/
 185.100.84.0,185.100.85.255,FlokiNET Romania,https://www.flokinet.is/en/
 185.100.86.0,185.100.86.255,FlokiNET Finland,https://www.flokinet.is/en/
 185.101.69.0,185.101.69.255,Depo40,http://depo40.ru/
@@ -2376,14 +2801,22 @@
 185.107.94.0,185.107.94.255,NFOrce,https://www.nforce.com/
 185.108.84.0,185.108.85.255,Ardis Russia,https://ardis.ru/
 185.121.120.0,185.121.121.255,Trabia Network,https://www.trabia.com/
+185.125.168.0,185.125.171.255,TerraHost,https://terrahost.no/
 185.125.230.0,185.125.231.255,Offshore Servers,https://www.offshore-servers.com/
 185.139.144.0,185.139.147.255,BHost Inc,https://www.bhost.net/
+185.149.100.0,185.149.100.255,Veridyen,https://veridyen.com/
 185.158.112.0,185.158.115.255,IP Server,https://www.ipserver.su/
 185.162.130.0,185.162.130.255,King Servers,https://www.king-servers.com/
+185.179.24.0,185.179.24.255,MegaTR,https://www.megatrhost.com/
 185.181.16.0,185.181.19.255,Datasfera,http://datasfera.com/
+185.181.60.0,185.181.63.255,TerraHost,https://terrahost.no/
+185.206.224.0,185.206.224.255,M247,http://m247.ro/
 185.217.93.0,185.217.93.255,AbeloHost,https://abelohost.com/
 185.224.136.0,185.224.137.255,Hostinger,https://www.hostinger.com/
+185.234.217.0,185.234.217.255,World Hosting Farm,http://worldhostingfarm.com/
 185.239.50.0,185.239.50.255,MGNHost,https://www.mgnhost.ru/
+185.245.86.0,185.245.86.255,M247,http://m247.ro/
+185.248.100.0,185.248.103.255,ipserver,https://www.ipserver.su/en
 186.227.162.128,186.227.162.191,Server Green,http://servergreen.com.br/
 186.251.128.0,186.251.139.255,ipglobe.net,https://www.ipglobe.net/
 187.0.192.0,187.0.223.255,alog,http://www.alog.com.br/
@@ -2398,11 +2831,13 @@
 188.72.192.0,188.72.255.255,Leaseweb,http://www.leaseweb.com/
 188.95.48.0,188.95.55.255,serverboost.nl,http://serverboost.nl/
 188.95.248.0,188.95.255.255,rackmarkt.com,http://rackmarkt.com/
+188.114.96.0,188.114.111.255,Cloudflare Inc,https://www.cloudflare.com/
 188.116.54.0,188.116.54.255,HitMe.pl,https://hitme.pl/
 188.120.224.0,188.120.255.255,ISPserver,http://ispserver.com/
 188.121.32.0,188.121.47.255,GoDaddy.com NL,http://www.godaddy.com/
 188.122.64.0,188.122.95.255,i3d.net,http://i3d.net/
 188.126.64.0,188.126.95.255,Portlane,http://www.portlane.com/
+188.127.231.0,188.127.231.255,SmartApe,https://www.smartape.eu/
 188.127.239.0,188.127.239.255,SmartApe,https://www.smartape.eu/
 188.138.0.0,188.138.127.255,plusserver.de,http://plusserver.de/
 188.165.0.0,188.165.255.255,OVH,http://www.ovh.co.uk/
@@ -2423,6 +2858,7 @@
 188.247.128.0,188.247.128.255,everhost,http://everhost.co/
 189.113.160.0,189.113.175.255,hostrevenda.com,http://hostrevenda.com/
 190.4.88.0,190.4.91.255,Hosta Rica,http://hostarica.com/
+190.93.240.0,190.93.255.255,Cloudflare Inc,https://www.cloudflare.com/
 190.114.252.0,190.114.255.255,BlueHosting.cl,http://www.bluehosting.cl/
 190.115.0.0,190.115.1.255,corponetsa.net,http://www.corponetsa.net/
 190.120.224.0,190.120.239.255,ServerPronto,http://www.serverpronto.com/
@@ -2430,30 +2866,33 @@
 190.151.128.0,190.151.131.255,corponetsa.net,http://www.corponetsa.net/
 190.228.29.0,190.228.29.255,elserver,https://www.elserver.com/
 190.242.28.0,190.242.28.255,corponetsa.net,http://www.corponetsa.net/
+191.232.16.0,191.232.23.255,Microsoft Azure,http://www.windowsazure.com/en-us/
 191.232.32.0,191.232.63.255,Microsoft Azure,http://www.windowsazure.com/en-us/
-191.232.137.0,191.232.140.255,Microsoft Azure,http://www.windowsazure.com/en-us/
-191.232.160.0,191.233.128.255,Microsoft Azure,http://www.windowsazure.com/en-us/
-191.233.130.0,191.233.145.15,Microsoft Azure,http://www.windowsazure.com/en-us/
-191.233.152.0,191.233.183.255,Microsoft Azure,http://www.windowsazure.com/en-us/
-191.233.192.0,191.233.255.255,Microsoft Azure,http://www.windowsazure.com/en-us/
+191.232.138.0,191.232.140.255,Microsoft Azure,http://www.windowsazure.com/en-us/
+191.232.160.0,191.233.55.255,Microsoft Azure,http://www.windowsazure.com/en-us/
+191.233.64.0,191.233.119.255,Microsoft Azure,http://www.windowsazure.com/en-us/
+191.233.128.0,191.233.255.255,Microsoft Azure,http://www.windowsazure.com/en-us/
 191.234.2.0,191.234.3.255,Microsoft Azure,http://www.windowsazure.com/en-us/
 191.234.16.0,191.234.63.255,Microsoft Azure,http://www.windowsazure.com/en-us/
-191.234.138.0,191.234.139.255,Microsoft Azure,http://www.windowsazure.com/en-us/
-191.234.160.0,191.234.191.255,Microsoft Azure,http://www.windowsazure.com/en-us/
-191.235.32.0,191.235.248.255,Microsoft Azure,http://www.windowsazure.com/en-us/
+191.234.128.0,191.234.255.255,Microsoft Azure,http://www.windowsazure.com/en-us/
+191.235.32.0,191.235.250.127,Microsoft Azure,http://www.windowsazure.com/en-us/
 191.235.255.0,191.237.196.255,Microsoft Azure,http://www.windowsazure.com/en-us/
 191.237.200.0,191.237.236.255,Microsoft Azure,http://www.windowsazure.com/en-us/
 191.237.238.0,191.237.238.255,Microsoft Azure,http://www.windowsazure.com/en-us/
 191.237.240.0,191.237.241.255,Microsoft Azure,http://www.windowsazure.com/en-us/
-191.237.244.0,191.238.68.255,Microsoft Azure,http://www.windowsazure.com/en-us/
+191.237.248.0,191.238.68.255,Microsoft Azure,http://www.windowsazure.com/en-us/
 191.238.70.0,191.238.71.255,Microsoft Azure,http://www.windowsazure.com/en-us/
 191.238.80.0,191.238.93.255,Microsoft Azure,http://www.windowsazure.com/en-us/
-191.238.96.0,191.239.197.15,Microsoft Azure,http://www.windowsazure.com/en-us/
+191.238.96.0,191.238.135.255,Microsoft Azure,http://www.windowsazure.com/en-us/
+191.238.144.0,191.239.127.255,Microsoft Azure,http://www.windowsazure.com/en-us/
+191.239.160.0,191.239.195.255,Microsoft Azure,http://www.windowsazure.com/en-us/
 191.239.200.0,191.239.255.255,Microsoft Azure,http://www.windowsazure.com/en-us/
 191.252.0.0,191.252.255.255,Locaweb,https://www.locaweb.com.br/
 192.3.0.0,192.3.255.255,ColoCrossing,http://www.colocrossing.com/
+192.26.25.0,192.26.25.255,Amazon AWS,http://www.amazon.com/aws/
 192.30.136.0,192.30.139.255,Input Output Flood LLC,http://ioflood.com/
 192.34.56.0,192.34.63.255,DigitalOcean USA,https://www.digitalocean.com/
+192.34.80.0,192.34.87.255,AxcelX,http://www.axcelx.com/
 192.34.108.0,192.34.111.255,WoW Technologies,http://wowrack.com/
 192.40.56.0,192.40.59.255,Total Server Solutions,http://totalserversolutions.com/
 192.40.112.0,192.40.115.255,ihnetworks.net,http://ihnetworks.net/
@@ -2475,15 +2914,16 @@
 192.111.128.0,192.111.143.255,Total Server Solutions,http://totalserversolutions.com/
 192.119.64.0,192.119.127.255,hostwinds.com,http://www.hostwinds.com/
 192.119.144.0,192.119.159.255,avantehosting.net,https://avantehosting.net/
-192.124.170.0,192.124.219.255,demos,http://demos.ru/
+192.124.170.0,192.124.191.255,demos,http://demos.ru/
+192.124.208.0,192.124.219.255,demos,http://demos.ru/
 192.129.128.0,192.129.255.255,hostwinds.com,http://www.hostwinds.com/
 192.138.16.0,192.138.23.255,wiredtree,http://www.wiredtree.com/
+192.138.189.0,192.138.189.255,Veerotech,https://www.veerotech.net/
 192.151.144.0,192.151.159.255,Data Shack,https://www.datashack.net/
 192.154.96.0,192.154.111.255,Gorilla Servers,http://gorillaservers.com/
 192.155.80.0,192.155.95.255,Linode,http://www.linode.com/
 192.155.192.0,192.155.255.255,SoftLayer,http://www.softlayer.com/
 192.157.48.0,192.157.63.255,servermania.com,http://www.servermania.com/
-192.158.28.0,192.158.31.255,Google App Engine,https://cloud.google.com/appengine
 192.161.48.0,192.161.63.255,QuadraNet,https://quadranet.com/
 192.161.160.0,192.161.191.255,QuadraNet,https://quadranet.com/
 192.162.19.0,192.162.19.255,galahost,http://galahost.net/
@@ -2507,6 +2947,7 @@
 192.210.48.0,192.210.63.255,Psychz Networks,http://psychz.net/
 192.210.128.0,192.210.255.255,ColoCrossing,http://www.colocrossing.com/
 192.211.48.0,192.211.63.255,Incero,http://www.incero.com/
+192.225.170.0,192.225.170.255,interphase,http://
 192.227.128.0,192.227.255.255,ColoCrossing,http://www.colocrossing.com/
 192.228.96.0,192.228.111.255,fiberhub.com,http://www.fiberhub.com/
 192.232.192.0,192.232.255.255,WebsiteWelcome.com,http://www.websitewelcome.com/
@@ -2527,6 +2968,7 @@
 193.19.106.0,193.19.107.255,xservers.ro,http://www.xservers.ro/
 193.19.118.0,193.19.119.255,IP Server,https://www.ipserver.su/
 193.22.254.0,193.22.254.255,Keyweb Switzerland,https://www.keyweb.de/en/
+193.26.217.0,193.26.217.255,Servachok,https://www.serva4ok.ru/
 193.27.246.0,193.27.247.255,wehostall,http://wehostall.ru/
 193.28.228.0,193.28.228.255,T-N Media Network,http://t-n-media.de/
 193.34.88.0,193.34.91.255,easyhost.be,http://easyhost.be/
@@ -2535,6 +2977,7 @@
 193.37.152.0,193.37.152.255,Giga-Hosting GmbH,http://giga-hosting.biz/
 193.47.99.0,193.47.99.255,Hetzner Online AG,http://www.hetzner.de/
 193.47.184.0,193.47.184.255,euro-web.com,http://fr.euro-web.com/
+193.70.0.0,193.70.127.255,OVH,https://www.ovh.ie/
 193.104.68.0,193.104.68.255,EvoVPS,http://evovps.com/
 193.105.171.0,193.105.171.255,CoolVDS,http://coolvds.com/
 193.105.174.0,193.105.174.255,Apollon,http://www.apollon-server.ru/
@@ -2612,7 +3055,9 @@
 194.187.164.0,194.187.167.255,accelerated.de,http://accelerated.de/
 194.247.60.0,194.247.60.255,kievhosting,http://kiev-hosting.com/
 195.2.254.0,195.2.255.255,superhost.pl,http://superhost.pl/
+195.8.208.0,195.8.209.255,SoHosted Cloud B.V.,https://www.sohosted.com/
 195.12.48.0,195.12.51.255,OpenHosting UK Internet Solutions,http://openhosting.co.uk/
+195.17.0.0,195.17.0.255,Amazon AWS,http://www.amazon.com/aws/
 195.20.155.0,195.20.155.255,host-it.co.uk,http://www.host-it.co.uk/
 195.20.204.0,195.20.205.255,Snel Internet Services B.V.,https://www.snelserver.com/
 195.20.224.0,195.20.255.255,1&1 Internet,http://www.1and1.com/
@@ -2668,6 +3113,8 @@
 195.242.212.0,195.242.215.255,OpenHosting UK Internet Solutions,http://openhosting.co.uk/
 195.245.124.0,195.245.127.255,Akamai,http://akamai.com/
 195.248.78.0,195.248.78.255,availo.no,http://www.availo.no/
+196.53.10.0,196.53.10.255,LogicWeb Inc,https://www.logicweb.com/
+197.234.240.0,197.234.243.255,Cloudflare Inc,https://www.cloudflare.com/
 198.7.56.0,198.7.63.255,Leaseweb,http://www.leaseweb.com/
 198.8.80.0,198.8.95.255,colo@,http://coloat.com/
 198.11.192.0,198.11.255.255,SoftLayer,http://www.softlayer.com/
@@ -2682,6 +3129,7 @@
 198.23.128.0,198.23.255.255,ColoCrossing,http://www.colocrossing.com/
 198.24.128.0,198.24.191.255,Secure Servers,http://www.securedservers.com/
 198.27.64.0,198.27.127.255,OVH,http://www.ovh.co.uk/
+198.41.128.0,198.41.255.255,Cloudflare Inc,https://www.cloudflare.com/
 198.44.0.0,198.44.127.255,hostwinds.com,http://www.hostwinds.com/
 198.46.128.0,198.46.255.255,ColoCrossing,http://www.colocrossing.com/
 198.49.64.0,198.49.79.255,DimeNOC,http://dimenoc.com/
@@ -2689,20 +3137,23 @@
 198.50.96.0,198.50.127.255,iWeb Technologies Inc.,http://iweb.com/
 198.50.128.0,198.50.255.255,OVH,http://www.ovh.co.uk/
 198.52.96.0,198.52.127.255,multacom.com,http://multacom.com/
-198.52.128.0,198.52.255.255,avantehosting.net,https://avantehosting.net/
+198.54.112.0,198.54.127.255,Namecheap,https://www.namecheap.com/
 198.55.96.0,198.55.127.255,QuadraNet,https://quadranet.com/
 198.57.128.0,198.57.255.255,The Endurance International Group Inc,http://www.enduranceinternational.com/
 198.58.96.0,198.58.127.255,Linode,http://www.linode.com/
 198.61.128.0,198.61.255.255,Rackspace,http://www.rackspace.com/
 198.71.48.0,198.71.63.255,1&1 Internet,http://www.1and1.com/
+198.71.128.0,198.71.255.255,GoDaddy,https://www.godaddy.com/
 198.72.96.0,198.72.127.255,iWeb Technologies Inc.,http://iweb.com/
 198.74.48.0,198.74.63.255,Linode,http://www.linode.com/
 198.74.96.0,198.74.127.255,multacom.com,http://multacom.com/
+198.74.228.0,198.74.231.255,InfraDMS,https://infradms.com/
 198.84.64.0,198.84.127.255,hostwinds.com,http://www.hostwinds.com/
 198.89.96.0,198.89.127.255,Silicon Valley Web Hosting,http://www.svwh.net/
 198.91.80.0,198.91.95.255,x10hosting,http://x10hosting.com/
 198.96.88.0,198.96.95.255,QuadraNet,https://quadranet.com/
 198.98.48.0,198.98.63.255,buyvm.net,http://buyvm.net/?from=frantech
+198.99.2.0,198.99.2.255,Amazon AWS,http://www.amazon.com/aws/
 198.100.96.0,198.100.127.255,Gorilla Servers,http://gorillaservers.com/
 198.100.144.0,198.100.159.255,OVH,http://www.ovh.co.uk/
 198.101.8.0,198.101.15.255,Cloud South,http://www.cloudsouth.com/
@@ -2721,6 +3172,7 @@
 198.167.136.0,198.167.143.255,Virpus Networks,http://myvirpus.com/
 198.175.124.0,198.175.127.255,Virpus Networks,http://myvirpus.com/
 198.178.120.0,198.178.127.255,Hivelocity Hosting,http://www.hivelocity.net/
+198.180.97.0,198.180.97.191,Microsoft Azure,http://www.windowsazure.com/en-us/
 198.183.220.0,198.183.223.255,Managed Hosting Services (Gorack),http://www.gorack.net/
 198.199.64.0,198.199.127.255,DigitalOcean USA,https://www.digitalocean.com/
 198.204.224.0,198.204.255.255,Data Shack,https://www.datashack.net/
@@ -2749,8 +3201,15 @@
 199.21.112.0,199.21.115.255,ColoCrossing,http://www.colocrossing.com/
 199.26.84.0,199.26.87.255,dfw-datacenter.com,http://dfw-datacenter.com/
 199.27.72.0,199.27.79.255,Fastly,https://www.fastly.com/
-199.30.16.0,199.30.27.127,Microsoft Azure,http://www.windowsazure.com/en-us/
-199.30.27.144,199.30.31.255,Microsoft Azure,http://www.windowsazure.com/en-us/
+199.30.16.0,199.30.16.255,Microsoft Azure,http://www.windowsazure.com/en-us/
+199.30.18.0,199.30.20.255,Microsoft Azure,http://www.windowsazure.com/en-us/
+199.30.22.0,199.30.22.255,Microsoft Azure,http://www.windowsazure.com/en-us/
+199.30.24.0,199.30.25.255,Microsoft Azure,http://www.windowsazure.com/en-us/
+199.30.27.0,199.30.27.127,Microsoft Azure,http://www.windowsazure.com/en-us/
+199.30.27.144,199.30.27.191,Microsoft Azure,http://www.windowsazure.com/en-us/
+199.30.28.64,199.30.29.255,Microsoft Azure,http://www.windowsazure.com/en-us/
+199.30.31.0,199.30.31.127,Microsoft Azure,http://www.windowsazure.com/en-us/
+199.30.31.192,199.30.31.255,Microsoft Azure,http://www.windowsazure.com/en-us/
 199.30.48.0,199.30.55.255,Input Output Flood LLC,http://ioflood.com/
 199.33.120.0,199.33.127.255,Rebel Hosting,http://rebelhosting.net/
 199.34.228.0,199.34.231.255,Weebly,http://www.weebly.com/
@@ -2766,19 +3225,25 @@
 199.58.196.0,199.58.199.255,Bluehost.com,http://www.bluehost.com/
 199.59.56.0,199.59.63.255,hostwinds.com,http://www.hostwinds.com/
 199.59.244.0,199.59.247.255,PlanetHoster,http://www.planethoster.net/
+199.60.101.0,199.60.101.255,Dedicated.com,https://dedicated.com/
 199.68.176.0,199.68.183.255,datacenterscanada.com,http://www.datacenterscanada.com/
+199.68.191.0,199.68.191.255,Fogo Data Centers,https://www.fogodatacenters.com/
 199.71.212.0,199.71.215.255,Psychz Networks,http://psychz.net/
 199.71.232.0,199.71.235.255,netrouting.com,http://www.netrouting.com/
+199.73.28.0,199.73.31.255,DBSINet,http://www.dbsinet.com/
 199.79.60.0,199.79.63.255,Confluence Networks Inc,http://confluence-networks.com/
 199.80.56.0,199.80.63.255,Techie Media,http://techiemedia.net/
 199.83.48.0,199.83.51.255,awknet,http://awknet.com/
 199.83.88.0,199.83.95.255,Psychz Networks,http://psychz.net/
+199.83.208.0,199.83.215.255,H4Y Technologies LLC,https://www.h4y.us/
 199.85.208.0,199.85.215.255,HostVentures,http://www.hostventures.com/
 199.87.232.0,199.87.239.255,esited.com,http://www.esited.com/
 199.91.72.0,199.91.75.255,Zenlayer,http://www.zenlayer.com/
 199.91.96.0,199.91.103.255,HelloVPS,http://www.hellovps.com/
 199.96.80.0,199.96.87.255,Continuum Data Centers,http://www.continuumdatacenters.com/
 199.101.48.0,199.101.51.255,HostRocket,http://www.hostrocket.com/
+199.101.96.0,199.101.103.255,QuickPacket,http://www.quickpacket.com/
+199.102.44.0,199.102.47.255,H4Y,https://www.h4y.us/
 199.102.224.0,199.102.231.255,ServInt,http://www.servint.net/
 199.103.56.0,199.103.63.255,Cirrus Tech Ltd,http://www.cirrushosting.com/
 199.114.240.0,199.114.247.255,eHostingUSA,http://ehostingusa.com/
@@ -2797,6 +3262,7 @@
 199.127.56.0,199.127.63.255,fiberhub.com,http://www.fiberhub.com/
 199.127.248.0,199.127.255.255,Reliable Hosting,http://reliablehosting.com/
 199.165.249.0,199.165.250.255,XMission,http://xmission.com/
+199.167.20.0,199.167.20.255,Astute Hosting,https://astuteinternet.com/
 199.167.40.0,199.167.47.255,ServInt,http://www.servint.net/
 199.167.72.0,199.167.79.255,BlackMesh,http://www.blackmesh.com/
 199.167.132.0,199.167.135.255,Input Output Flood LLC,http://ioflood.com/
@@ -2812,6 +3278,7 @@
 199.180.128.0,199.180.135.255,Virpus Networks,http://myvirpus.com/
 199.180.184.0,199.180.187.255,Firehost,http://www.firehost.com/
 199.180.196.0,199.180.199.255,SWITCH Communications Group LLC,http://www.switchnap.com/
+199.182.168.0,199.182.175.255,KVC Hosting,https://www.kvchosting.net/
 199.187.208.0,199.187.211.255,colo@,http://coloat.com/
 199.188.100.0,199.188.103.255,ColoCrossing,http://www.colocrossing.com/
 199.188.220.0,199.188.223.255,PlanetHoster,http://www.planethoster.net/
@@ -2821,7 +3288,6 @@
 199.189.248.0,199.189.255.255,micfo.com,http://micfo.com/
 199.190.44.0,199.190.47.255,Zenlayer,http://www.zenlayer.com/
 199.192.72.0,199.192.79.255,Staminus Communications,http://staminus.net/
-199.192.112.0,199.192.115.255,Google App Engine,https://cloud.google.com/appengine
 199.192.152.0,199.192.159.255,eHostingUSA,http://ehostingusa.com/
 199.192.200.0,199.192.207.255,Continuum Data Centers,http://www.continuumdatacenters.com/
 199.192.228.0,199.192.231.255,ionity,http://ionity.com/
@@ -2835,9 +3301,10 @@
 199.195.212.0,199.195.215.255,Forta Trust,http://www.fortatrust.com/
 199.204.44.0,199.204.47.255,vexxhost web hosting,http://vexxhost.com/
 199.204.136.0,199.204.139.255,Firehost,http://www.firehost.com/
+199.204.212.0,199.204.212.255,DynamicHosting,https://www.dynamichosting.ca/
 199.204.248.0,199.204.255.255,Jumpline Inc,http://www.jumpline.com/
 199.217.112.0,199.217.119.255,Hosting Solutions Internationa,http://www.server4you.com/
-199.223.232.0,199.223.237.255,Google App Engine,https://cloud.google.com/appengine
+199.223.252.0,199.223.255.255,TurnKey Internet,https://www.turnkeyinternet.net/
 199.229.248.0,199.229.255.255,colo@,http://coloat.com/
 199.230.52.0,199.230.55.255,ServInt,http://www.servint.net/
 199.231.84.0,199.231.87.255,Input Output Flood LLC,http://ioflood.com/
@@ -2852,6 +3319,7 @@
 199.245.56.0,199.245.63.255,Zenlayer,http://www.zenlayer.com/
 200.35.144.0,200.35.151.255,ServerPronto,http://www.serverpronto.com/
 200.50.224.0,200.50.231.255,abdicar.com,http://abdicar.com/
+200.55.245.0,200.55.245.255,Servicios y Telecomunicaciones S.A.,https://syt.com
 200.63.40.0,200.63.47.255,panamaserver.com,http://panamaserver.com/
 200.115.32.0,200.115.47.255,Teuno,http://www.teuno.com/
 200.124.132.72,200.124.132.79,e-commercepark.com,http://e-commercepark.com/
@@ -2895,21 +3363,26 @@
 204.12.0.0,204.12.127.255,HostMySite.com,http://www.webmysite.com/
 204.12.192.0,204.12.255.255,WholeSale Internet Inc,http://www.wholesaleinternet.com/
 204.13.152.0,204.13.155.255,multacom.com,http://multacom.com/
+204.14.72.0,204.14.73.255,THG Hosting,https://www.thghosting.com/
+204.14.86.0,204.14.87.255,Dynamic Internet,https://dynamicinternet.com/
 204.14.104.0,204.14.111.255,AccelerateBiz Inc.,http://www.acceleratebiz.com/
 204.14.120.0,204.14.123.255,AllHostShop.com,http://www.allhostshop.com/
 204.15.72.0,204.15.79.255,multacom.com,http://multacom.com/
 204.15.132.0,204.15.135.255,ndchost.com,http://www.ndchost.com/
 204.15.192.0,204.15.199.255,prioritycolo.com,http://prioritycolo.com/
+204.15.248.0,204.15.255.255,Certified Hosting,https://certifiedhosting.com/
 204.16.0.0,204.16.7.255,Braslink,http://www.braslink.com/
+204.16.247.0,204.16.247.255,RouterHosting,https://www.routerhosting.com/
 204.19.162.0,204.19.162.255,Voxel,http://www.voxel.net/
 204.27.56.0,204.27.63.255,Joe's Datacenter,http://www.joesdatacenter.com/
 204.28.100.0,204.28.103.255,Immedion,http://immedion.com/
-204.45.0.0,204.45.255.255,FDC Servers,http://fdcservers.net/
+204.45.0.0,204.45.255.255,Amazon AWS,http://www.amazon.com/aws/
 204.48.16.0,204.48.31.255,DigitalOcean,https://www.digitalocean.com/
 204.51.128.0,204.51.255.255,GoGrid,http://www.gogrid.com/
 204.61.220.0,204.61.223.255,Quasar Data Center,http://quasardata.com/
 204.68.96.0,204.68.127.255,American Internet Services,http://americanis.net/
 204.74.208.0,204.74.223.255,Take 2 Hosting,http://www.take2hosting.com/
+204.79.180.0,204.79.180.255,Microsoft Azure,http://www.windowsazure.com/en-us/
 204.93.128.0,204.93.255.255,ServerCentral,http://www.servercentral.net/
 204.109.56.0,204.109.63.255,Tranquil Hosting,http://www.tqhosting.com/
 204.124.180.0,204.124.183.255,Volume Drive,http://volumedrive.com
@@ -2934,11 +3407,14 @@
 205.214.64.0,205.214.95.255,latisys,http://www.latisys.com/
 205.234.96.0,205.234.111.255,Virtacore Systems,http://www.virtacore.com/
 205.234.128.0,205.234.255.255,ServerCentral,http://www.servercentral.net/
+205.251.171.74,205.251.171.75,unknown,unknown
 206.41.112.0,206.41.127.255,RisingNet,http://risingnet.net/
 206.41.192.0,206.41.223.255,Datapoint,http://www.datapointinc.com/
+206.41.224.0,206.41.255.255,netdoor,http://netdoor.com/
 206.51.224.0,206.51.239.255,Hivelocity Hosting,http://www.hivelocity.net/
 206.71.160.0,206.71.191.255,American Internet Services,http://americanis.net/
 206.72.192.0,206.72.207.255,InterServer.net,http://www.interserver.net/
+206.75.231.129,206.75.231.129,unknown,unknown
 206.81.0.0,206.81.31.255,DigitalOcean,https://www.digitalocean.com/
 206.82.192.0,206.82.223.255,latisys,http://www.latisys.com/
 206.123.64.0,206.123.127.255,colo4dallas.com,http://colo4dallas.com/
@@ -2954,6 +3430,7 @@
 206.217.128.0,206.217.143.255,Velocity Servers,http://www.velocity-servers.net/
 206.217.192.0,206.217.223.255,Midphase,http://www.midphase.com/
 206.220.172.0,206.220.175.255,Total Server Solutions,http://totalserversolutions.com/
+206.222.0.0,206.222.31.255,eNET Inc,https://www.ee.net/
 206.223.14.0,206.223.14.255,AiNET,http://www.ai.net/
 206.223.120.0,206.223.121.255,Limelight Networks Inc,http://www.limelight.com/
 206.225.80.0,206.225.87.255,Codero,http://www.codero.com/
@@ -2980,7 +3457,7 @@
 207.46.126.0,207.46.126.255,Microsoft Azure,http://www.windowsazure.com/en-us/
 207.46.128.0,207.46.159.255,Microsoft Azure,http://www.windowsazure.com/en-us/
 207.46.193.192,207.46.193.207,Microsoft Azure,http://www.windowsazure.com/en-us/
-207.46.193.224,207.46.194.255,Microsoft Azure,http://www.windowsazure.com/en-us/
+207.46.193.224,207.46.193.255,Microsoft Azure,http://www.windowsazure.com/en-us/
 207.46.198.128,207.46.198.255,Microsoft Azure,http://www.windowsazure.com/en-us/
 207.46.200.96,207.46.200.127,Microsoft Azure,http://www.windowsazure.com/en-us/
 207.46.200.176,207.46.200.191,Microsoft Azure,http://www.windowsazure.com/en-us/
@@ -2989,11 +3466,10 @@
 207.46.224.0,207.46.239.255,Microsoft Azure,http://www.windowsazure.com/en-us/
 207.55.240.0,207.55.255.255,Jumpline Inc,http://www.jumpline.com/
 207.58.128.0,207.58.191.255,ServInt,http://www.servint.net/
-207.68.174.0,207.68.174.7,Microsoft Azure,http://www.windowsazure.com/en-us/
-207.68.174.24,207.68.174.71,Microsoft Azure,http://www.windowsazure.com/en-us/
-207.68.174.80,207.68.174.223,Microsoft Azure,http://www.windowsazure.com/en-us/
-207.68.174.248,207.68.174.255,Microsoft Azure,http://www.windowsazure.com/en-us/
+207.68.174.40,207.68.174.55,Microsoft Azure,http://www.windowsazure.com/en-us/
+207.68.174.184,207.68.174.223,Microsoft Azure,http://www.windowsazure.com/en-us/
 207.97.192.0,207.97.255.255,Rackspace,http://www.rackspace.com/
+207.108.87.192,207.108.87.255,dmds,https://www.dmdsmanaged.com/
 207.114.0.0,207.114.127.255,Datapoint,http://www.datapointinc.com/
 207.135.128.0,207.135.159.255,XMission,http://xmission.com/
 207.148.224.0,207.148.255.255,The Endurance International Group Inc,http://www.enduranceinternational.com/
@@ -3019,7 +3495,6 @@
 208.67.180.0,208.67.183.255,ndchost.com,http://www.ndchost.com/
 208.67.224.0,208.67.227.255,Triple8 Network,http://888.net/
 208.68.36.0,208.68.39.255,DigitalOcean USA,https://www.digitalocean.com/
-208.68.108.0,208.68.109.255,Google App Engine,https://cloud.google.com/appengine
 208.69.56.0,208.69.59.255,Cirrus Tech Ltd,http://www.cirrushosting.com/
 208.69.112.0,208.69.119.255,travailsystems.com,http://travailsystems.com/
 208.69.176.0,208.69.183.255,Silicon Valley Web Hosting,http://www.svwh.net/
@@ -3043,6 +3518,7 @@
 208.76.220.0,208.76.223.255,Razor,http://www.razorservers.com/
 208.76.248.0,208.76.255.255,Colocation America Inc,http://www.colocationamerica.com/
 208.77.88.0,208.77.91.255,HostVentures,http://www.hostventures.com/
+208.77.156.0,208.77.159.255,Cologlobal,https://www.cologlobal.com/
 208.78.40.0,208.78.43.255,Total Server Solutions,http://totalserversolutions.com/
 208.78.96.0,208.78.103.255,Rackspace,http://www.rackspace.com/
 208.78.168.0,208.78.175.255,latisys,http://www.latisys.com/
@@ -3057,6 +3533,7 @@
 208.81.200.0,208.81.203.255,Zenlayer,http://www.zenlayer.com/
 208.82.112.0,208.82.119.255,ndchost.com,http://www.ndchost.com/
 208.82.144.0,208.82.151.255,Datotel,http://www.datotel.com/
+208.82.183.0,208.82.183.255,Webservio,http://webservio.biz/
 208.82.204.0,208.82.207.255,Connectria,http://www.connectria.com/
 208.83.76.0,208.83.79.255,Immedion,http://immedion.com/
 208.83.140.0,208.83.143.255,netriplex,http://www.netriplex.com/
@@ -3067,6 +3544,7 @@
 208.85.0.0,208.85.7.255,Turnkey Internet,http://turnkeyinternet.net/
 208.85.16.0,208.85.23.255,Razor,http://www.razorservers.com/
 208.85.172.0,208.85.175.255,HostVentures,http://www.hostventures.com/
+208.86.88.0,208.86.91.255,Amazon AWS,http://www.amazon.com/aws/
 208.86.152.0,208.86.159.255,wiredtree,http://www.wiredtree.com/
 208.86.184.0,208.86.191.255,Jumpline Inc,http://www.jumpline.com/
 208.86.224.0,208.86.227.255,Tranquil Hosting,http://www.tqhosting.com/
@@ -3094,8 +3572,10 @@
 208.100.0.0,208.100.63.255,steadfast.net,http://steadfast.net/
 208.101.0.0,208.101.63.255,SoftLayer,http://www.softlayer.com/
 208.109.0.0,208.109.255.255,GoDaddy.com Inc,http://www.godaddy.com/
+208.110.48.0,208.110.63.255,Amazon AWS,http://www.amazon.com/aws/
 208.110.64.0,208.110.95.255,WholeSale Internet Inc,http://www.wholesaleinternet.com/
 208.111.32.0,208.111.47.255,Host Virtual,http://www.vr.org/
+208.111.58.0,208.111.58.255,CloudSigma,https://www.cloudsigma.com/
 208.111.128.0,208.111.191.255,Limelight Networks Inc,http://www.limelight.com/
 208.112.0.0,208.112.127.255,HostMySite.com,http://www.webmysite.com/
 208.113.64.0,208.113.127.255,GoGrid,http://www.gogrid.com/
@@ -3107,6 +3587,7 @@
 208.117.0.0,208.117.63.255,steadfast.net,http://steadfast.net/
 208.122.0.0,208.122.63.255,Voxel,http://www.voxel.net/
 208.122.192.0,208.122.223.255,MojoHost,http://www.mojohost.com
+208.123.230.160,208.123.230.167,ezine,https://www.ezinehost.com/
 208.131.128.0,208.131.159.255,westhost,http://www.westhost.com/
 208.166.48.0,208.166.63.255,Silicon Valley Web Hosting,http://www.svwh.net/
 209.11.240.0,209.11.255.255,VPLS Inc. d/b/a Krypt Technologies,http://krypt.com/
@@ -3172,6 +3653,7 @@
 209.200.128.0,209.200.191.255,Akamai,http://akamai.com/
 209.200.224.0,209.200.255.255,Lunar Pages,http://www.lunarpages.com/
 209.203.224.0,209.203.255.255,PEER 1,http://www.peer1.com/
+209.208.0.0,209.208.127.255,Atlantic.net,https://atlantic.net/
 209.213.96.0,209.213.127.255,PEER 1,http://www.peer1.com/
 209.216.0.0,209.216.63.255,HostMySite.com,http://www.webmysite.com/
 209.216.192.0,209.216.255.255,American Internet Services,http://americanis.net/
@@ -3197,11 +3679,13 @@
 212.45.104.0,212.45.111.255,Unbelievable Machine,http://www.unbelievable-machine.com/
 212.47.224.0,212.47.255.255,Iliad Datacenter,http://iliad-entreprises.fr/
 212.53.64.0,212.53.95.255,NetBenefit,http://www.netbenefit.com/
+212.53.128.0,212.53.255.255,Artfiles New Media GmbH,https://www.artfiles.de/
 212.64.128.0,212.64.159.255,Rackspace,http://www.rackspace.com/
 212.67.192.0,212.67.223.255,Webfusion,http://www.webfusion.com/
 212.68.46.0,212.68.46.255,Sadecehosting Turkey,https://www.sadecehosting.com/en/
 212.83.32.0,212.83.63.255,23Media,http://www.23media.eu/
 212.83.128.0,212.83.153.255,Online.net Iliad,https://www.online.net/en
+212.90.148.0,212.90.148.255,Goneo,https://goneo.de/
 212.95.32.0,212.95.63.255,Leaseweb,http://www.leaseweb.com/
 212.100.224.0,212.100.255.255,Rackspace,http://www.rackspace.com/
 212.109.218.0,212.109.219.255,ISPSystem,https://www.ispsystem.com/
@@ -3211,6 +3695,7 @@
 212.124.120.0,212.124.123.255,DigitalOne AG,http://www.digitalone.com/
 212.147.128.0,212.147.255.255,Servercentric,http://servecentric.com/
 212.192.192.0,212.192.199.255,RU-CENTER,https://www.nic.ru/en/
+212.193.224.0,212.193.255.255,RU-CENTER,https://www.nic.ru/en/
 212.224.64.0,212.224.127.255,First Colo GmbH,http://www.first-colo.net/EN/
 212.227.0.0,212.227.255.255,1&1 Internet,http://www.1and1.com/
 213.5.64.0,213.5.71.255,AltusHost,http://www.altushost.com/
@@ -3243,7 +3728,6 @@
 213.186.32.0,213.186.63.255,OVH,http://www.ovh.co.uk/
 213.193.192.0,213.193.255.255,trueserver.nl,http://trueserver.nl/
 213.199.128.0,213.199.143.255,Microsoft Azure,http://www.windowsazure.com/en-us/
-213.199.168.0,213.199.168.255,Microsoft Azure,http://www.windowsazure.com/en-us/
 213.199.180.32,213.199.180.47,Microsoft Azure,http://www.windowsazure.com/en-us/
 213.199.180.96,213.199.180.127,Microsoft Azure,http://www.windowsazure.com/en-us/
 213.199.180.192,213.199.180.223,Microsoft Azure,http://www.windowsazure.com/en-us/
@@ -3258,12 +3742,14 @@
 213.232.110.0,213.232.110.255,UK2 Group,http://www.uk2.net/
 213.239.128.0,213.239.191.255,trueserver.nl,http://trueserver.nl/
 213.239.192.0,213.239.255.255,Hetzner Online AG,http://www.hetzner.de/
+213.247.46.0,213.247.47.255,Webair Internet Development Inc,http://www.webair.com/
 213.251.128.0,213.251.191.255,OVH,http://www.ovh.co.uk/
 216.6.224.0,216.6.239.255,Ubiquity Server Solutions,http://www.ubiquityservers.com/
 216.7.160.0,216.7.191.255,latisys,http://www.latisys.com/
 216.10.240.0,216.10.255.255,The Endurance International Group Inc,http://www.enduranceinternational.com/
 216.12.192.0,216.12.223.255,"ThePlanet.com Internet Services, Inc.",http://theplanet.com
 216.14.112.0,216.14.127.255,EBOUNDHOST.com ADF,http://eboundhost.com/
+216.15.128.0,216.15.255.255,Cybercon,https://www.cybercon.com/
 216.17.96.0,216.17.111.255,amerinoc,https://www.amerinoc.com/
 216.18.160.0,216.18.191.255,Reflected Networks,http://reflected.net/
 216.18.192.0,216.18.223.255,WebNX Internet Services,http://webnx.com/
@@ -3276,6 +3762,7 @@
 216.26.128.0,216.26.191.255,Peak10,http://www.peak10.com/
 216.36.48.0,216.36.63.255,EarthLink Cloud,http://www.earthlinkcloud.com/
 216.36.192.0,216.36.255.255,Hostway,http://www.hostway.com/
+216.37.0.0,216.37.63.255,Expedient,https://expedient.com/
 216.38.48.0,216.38.63.255,ServInt,http://www.servint.net/
 216.38.128.0,216.38.159.255,Fastmetrics,http://fastmetrics.com/
 216.40.192.0,216.40.255.255,"ThePlanet.com Internet Services, Inc.",http://theplanet.com
@@ -3333,12 +3820,13 @@
 216.182.80.0,216.182.95.255,Adhost,http://www.adhost.com/
 216.182.176.0,216.182.191.255,LightEdge,http://www.lightedge.com
 216.182.224.0,216.182.239.255,Amazon AWS,http://www.amazon.com/aws/
+216.184.30.0,216.184.30.255,Southwest Cyberport,https://www.swcp.com/
 216.185.96.0,216.185.127.255,"ThePlanet.com Internet Services, Inc.",http://theplanet.com
 216.185.129.0,216.185.130.255,Hostway,http://www.hostway.com/
 216.187.64.0,216.187.127.255,PEER 1,http://www.peer1.com/
 216.189.144.0,216.189.159.255,Host US,http://hostus.us/
 216.211.128.0,216.211.143.255,Adhost,http://www.adhost.com/
-216.213.0.0,216.213.191.255,thorn.net,http://www.thorn.net/
+216.213.0.0,216.213.127.255,thorn.net,http://www.thorn.net/
 216.218.128.0,216.218.255.255,Hurricane Electric,http://www.he.net/
 216.219.80.0,216.219.95.255,Host Department LLC,http://www.hostdepartment.com/
 216.221.160.0,216.221.191.255,C I Host,http://www.cihost.com/
